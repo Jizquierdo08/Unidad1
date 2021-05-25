@@ -1,148 +1,580 @@
 ﻿web-scraper-order,web-scraper-start-url,titulo,precio,habts,ban,mets
-1620505613-10568,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Renta Depto Centro Sur  2 Rec en Queretaro Amueblado Central Park T300,"$22,000",2,"3Baños",156 m²
-1620505969-11434,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,Renta departamento amueblado Santa Fe Juriquilla Querétaro Habtarea Towers 2 Rec,"$16,000",2,"2Baños",100 m²
-1620505836-11090,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,Se  Renta  PH en Milenio amueblado o sin amueblar,"$14,800",2,"2Baños",110 m²
-1620505613-10551,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Departamento en renta Centro Sur 2 habitaciones AVH,"$14,000",2,"2Baños",87 m²
-1620505979-11454,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,RENTA DE DEPARTAMENTO AMUEBLADO JURIQUILLA QUERETARO,"$25,000",3,"2Baños",150 m²
-1620505796-10985,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,RENTA DEPARTAMENTO AMUEBLADO TERRAZA EN EL MIRADOR,"$9,500",1,"1Baño",70 m²
-1620505960-11407,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Departamento en renta muy iluminado GGV#21-1947,"$14,500",2,"2Baños",109 m²
-1620505853-11110,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,DEPARTAMENTO EN RENTA EN QUERETARO Milenio 3a. Sección,"$18,000",2,"2Baños",147 m²
-1620505613-10559,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Elegante Departamento en RENTA en Alia Centro Sur,"$18,500",3,"3Baños",129 m²
-1620505660-10657,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,DEPARTAMENTO  EN  ALIA SKY LIVING CENTRO SUR,"$16,500",2,"2Baños",100 m²
-1620505928-11300,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento en Renta a estrenar,"$15,000",3,"2Baños",125 m²
-1620506030-11622,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"Renta Departamento junto al Náutico de Juriquilla, Querétaro, Querétaro.","$15,500",1,"1Baño",100 m²
-1620505761-10891,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,RENTA DE DEPARTAMENTO EN EL CAMPANARIO 3 RECÁMARAS 2 BAÑOS BALCÓN,"$19,500",3,"2Baños",96 m²
-1620505853-11105,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,"Renta de Amplio departamento con 2 recamara, ubicado en Fraccionamiento Milenio","$14,000",2,"2Baños",175 m²
-1620505942-11346,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,"RENTA DE DEPARTAMENTO EN WISE LIVING, JURIQUILLA","$24,500",1,"1Baño",90 m²
-1620505960-11382,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Departamentos en Renta en Real De Juriquilla,"$18,500",2,"2Baños",120 m²
-1620505891-11209,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,RENTA DEPARTAMENTO AMUEBLADO EL REFUGIO,"$14,000",3,"2Baños",110 m²
-1620505907-11247,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,Departamento en zona premium del Refugio sin amueblar de 207 mts2! RAH,"$14,000",1,"2Baños",207 m²
-1620506008-11537,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,Departamento en Juriquilla,"$32,000",3,"3Baños",170 m²
-1620505907-11266,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,"Lindo depa en renta en Privalia Ambienta, Cond. Nopal","$6,800",2,"2Baños",82 m²
-1620505969-11416,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,"En renta departamento amueblado en Juriquilla, Querétaro","$18,000",2,"2Baños",91 m²
-1620505725-10800,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Renta departamento amueblado Adamant Queretaro,"$19,000",2,"2Baños",76 m²
-1620506014-11566,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,Renta Departamento en Biosfera Juriquilla 3 Recamaras y excelente vista.,"$18,000",3,"3Baños",133 m²
-1620505997-11528,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Renta depa amueblado con excelentes amenidades en Juriquilla JF,"$19,000",1,"2Baños",98 m²
-1620505346-10465,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Hermoso depa amueblado y equipado listo para habitar en Cumbres del Lago JF,"$20,500",3,"3Baños",106 m²
-1620505836-11081,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,RENTA DEPARTAMENTO AMUEBLADO MILENIO,"$14,000",3,"2Baños",140 m²
-1620505346-10469,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Departamento en renta,"$25,000",3,"3Baños",232 m²
-1620505660-10671,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,RENTA DE DEPARTAMENTO AMUEBLADO NUEVO ZONA CENTRO SUR,"$19,000",2,"2Baños",93 m²
-1620505891-11192,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,DEPARTAMENTO NUEVO EN RENTA EN NATUUR TOWERS EN ZONA DE EL REFUGIO,"$18,000",3,"2Baños",160 m²
-1620505681-10695,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,RENTA DEPARTAMENTO ARCO DE PIEDRA JURICA,"$24,000",3,"2Baños",175 m²
-1620505660-10664,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,Departamento sin Amoblar en Centro Sur de 2 Dormitorios! Rahqro,"$14,000",2,"2Baños",87 m²
-1620506008-11540,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,Departamento con bonita vista en Altos de Juriquilla de 109 mts2! JGJ,"$14,500",2,"2Baños",109 m²
-1620505988-11491,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento amueblado - Tu hogar rodeado de belleza natural - Múltiples y diversos e...,"$38,000",3,"3Baños",161 m²
-1620505817-11014,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,DEPTO EN MILENIO LOS MEJORES ATARDECERES,"$15,000",3,"2Baños",125 m²
-1620505780-10950,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Renta departamento a solo unos minutos del Centro de la ciudad AGT,"$13,000",1,"1Baño",55 m²
-1620505796-10961,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en renta a estrenar en RES del PARQUE,"$11,500",2,"2Baños",85 m²
-1620506014-11584,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,DEPARTAMENTO PENTHOUSE EN RENTA EN BIOSFERA TOWERS EN JURIQUILLA CON VISTA,"$28,000",3,"4Baños",178 m²
-1620506014-11569,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,HERMOSO DEPARTAMENTO AMUEBLADO EN RENTA UBICADO EN JURIQUILLA,"$38,000",3,"2Baños",224 m²
-1620505704-10739,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,Departamento amoblado en el pueblito de 3 dormitorios y 114 mts2! Rahqro,"$13,000",3,"3Baños",114 m²
-1620505942-11324,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,"Departamento en Renta, en Juriquilla, Querétaro","$14,000",2,"2Baños",109 m²
-1620505613-10567,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,RENTA DEPARTAMENTO AMUEBLADO EN CENTRO SUR 2 RECAMARAS 2 BAÑOS,"$21,000",2,"2Baños",87 m²
-1620505872-11174,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,"Departamento en renta en Natuur, San José el Alto","$18,100",3,"2Baños",160 m²
-1620505942-11330,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,Departamento - Juriquilla,"$25,000",2,"2Baños",170 m²
-1620505960-11401,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Lindo Departamento en Renta. Juriquilla. FVR,"$23,500",3,"3Baños",184 m²
-1620506014-11567,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,"RENTO DEPA EN JURIQUILLA, QUERÉTARO.","$13,500",2,"2Baños",91 m²
-1620505836-11096,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,"DEPARTAMENTO EN RENTA, MILENIO III, QUERÉTARO, QRO.","$14,080",3,"2Baños",140 m²
-1620505761-10882,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,DEPARTAMENTO NUEVO EN LA RESERVA EL CAMPANARIO,"$15,000",2,"2Baños",113 m²
-1620505872-11175,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,RENTA DEPARTAMENTOS AMUEBLADOS - NATURR- EL REFUGIO - QUERETARO,"$20,000",2,"2Baños",90 m²
-1620505942-11335,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,Departamento Exclusivo en Renta Amueblado Juriquilla Santa Fe,"$25,000",2,"2Baños",137 m²
-1620505704-10757,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,"Hermoso departamento en renta 2 recamaras en el pueblito, sin muebles jgj","$7,800",2,"2Baños",80 m²
-1620505725-10801,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Renta Departamento Adamant Queretaro  Amueblado,"$19,000",2,"2Baños",75 m²
-1620505979-11444,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,Departamento en Renta a Estrenar en Juriquilla,"$16,000",2,"2Baños",126 m²
-1620505997-11522,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento - Juriquilla,"$30,000",3,"2Baños",175 m²
-1620505979-11449,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,Se Renta Departamento 2 Recámaras en Juriquilla Posee Alberca y Gym YCC,"$17,000",2,"2Baños",98 m²
-1620505960-11379,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,"Renta de Departamento  Amueblado en, Querétaro, ideal para ejecutivo EN RENTA","$14,000",1,"1Baño",70 m²
-1620505836-11084,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,Penthouse en renta amoblado de 3 dormitorios y 246 mts2 en El Milenio III RAHQRO,"$27,000",3,"3Baños",246 m²
-1620505761-10879,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,DEPARTAMENTO NUEVO AMUEBLADO EN CITY VIEW,"$24,000",2,"2Baños",133 m²
-1620505636-10600,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,"Renta Departamento Centro Sur, excelente ubicación","$15,085",2,"2Baños",109 m²
-1620505796-10972,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en renta por la zona de El Mirador,"$14,000",2,"2Baños",122 m²
-1620505681-10681,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,Se rentan departamentos (tipo loft) y recamaras en Av. Paseo Jurica,"$4,500",1,"1Baño",60 m²
-1620505853-11127,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,Departamento en renta Milenio 3 habitaciones AVH,"$14,000",3,"2Baños",146 m²
-1620505853-11121,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,"Loft en Renta, en Milenio 3a. Sección, Querétaro","$9,650",1,"1Baño",27 m²
-1620505681-10706,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,RENTA DEPARTAMENTO PALMAS CONDESA,"$11,500",2,"2Baños",134 m²
-1620506008-11531,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,"D*RENTA DE DEPARTAMENTO EN JURIQUILLA $18,000.00 AMUEBLADO VISTA PANORÁMICA","$18,000",1,"1Baño",120 m²
-1620505741-10822,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,DEPARTAMENTO EN RENTA EN SIERRA AZUL CON VISTA A LA CIUDAD CAMPANARIO QUERETARO,"$23,890",2,"2Baños",210 m²
-1620506023-11593,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,RENTA DEPARTAMENTO EN JURIQUILLA SANTA FE JACUZZI,"$12,500",3,"3Baños",210 m²
-1620505997-11505,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento - Juriquilla,"$15,400",3,"2Baños",97 m²
-1620505817-11029,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,"Renta de departamento Milenio, Querétaro","$23,000",2,"2Baños",134 m²
-1620505853-11120,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,RENTA DEPARTAMENTO EN CONDOMINIO CON ALBERCA MILENIO III,"$10,000",2,"2Baños",100 m²
-1620505907-11238,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,"DEPARTAMENTO EN RENTA 3 RECAMARAS CON ALBERCA, QUERETARO","$12,500",3,"2Baños",120 m²
-1620505997-11524,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento - Juriquilla,"$22,000",2,"2Baños",145 m²
-1620506023-11607,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,Departamento - Juriquilla,"$20,000",3,"3Baños",186 m²
-1620505780-10937,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Departamento en Centro Sur de 157 mts2 y 2 dormitorios! ATC,"$23,000",2,"2Baños",157 m²
-1620505725-10807,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Departamento sin amueblar en la zona de mayor plusvalía de Querétaro! RAHQRO,"$25,000",2,"2Baños",76 m²
-1620505960-11386,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Renta  Departamento Queretaro  2 rec  Biosfera Juriquilla,"$15,000",2,"2Baños",111 m²
-1620505891-11183,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,Querétaro  El Refugio increíble departamento en renta,"$15,900",3,"3Baños",157 m²
-1620505780-10934,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Departamento en Latitud - La Victoria,"$19,000",3,"2Baños",129 m²
-1620505979-11439,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,RENTA DEPARTAMENTO AMUEBLADO EN JURIQUILLA SANTA FE 1 DORMITORIO,"$22,500",1,"2Baños",98 m²
-1620505928-11307,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,"PH Amplio, Amueblado y con Acabados de Lujo en Cumbres del Lago","$28,500",3,"3Baños",233 m²
-1620505741-10838,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,"Departamento amueblado  en renta en Adamant, Campanario","$14,000",2,"1Baño",52 m²
-1620505761-10876,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,Departamento en Renta en La Reserva El Campanario,"$22,000",3,"3Baños",150 m²
-1620506008-11532,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,"EXCELENTE DEPARTAMENTO NUEVO EN RENTA, FRACC. ALTOS JURIQUILLA","$12,750",2,"2Baños",92 m²
-1620505979-11468,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,"DEPARTAMENTO LOFT EN RENTA AMUEBLADO, EN JURIQUILLA, 2 RECAMARAS 160 M2","$27,000",2,"2Baños",160 m²
-1620505636-10615,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,"Bello departamento en renta Amueblado, Centro Sur OFP EX965","$21,000",2,"2Baños",87 m²
-1620505346-10470,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Departamento en renta,"$16,500",2,"2Baños",105 m²
-1620505780-10932,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Renta Depto Queretaro Amueblado 1 Rec Latitud Victoria Centro,"$14,500",1,"1Baño",100 m²
-1620505636-10602,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,Espectacular Departamento de 2 Recámaras y 2  Baños en Centro Sur Ofp 19-600,"$15,000",2,"2Baños",87 m²
-1620505997-11502,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,DEPARTAMENTO EN JURIQUILLA SANTA FE,"$21,000",3,"2Baños",130 m²
-1620505741-10827,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,"Departamento de Lujo en renta amueblado, Campanario","$16,500",2,"2Baños",90 m²
-1620505997-11501,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,"DEPARTAMENTO EN RENTA EN BIOSFERA TOWERS, JURIQUILLA, AMUEBLADO","$20,000",3,"2Baños",119 m²
-1620506023-11616,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,DEPARTAMENTO EN RENTA VÉRTICE JURIQUILLA,"$13,500",2,"2Baños",90 m²
-1620505636-10609,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,LUJOSO DEPARTAMENTO AMUEBLADO Y EQUIPADO DE 162 m2 CON AMPLIA TERRAZA,"$24,000",2,"2Baños",162 m²
-1620505346-10467,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,RENTA DE DEPARTAMENTO 2 HABITACIONES VISTA DIAMANTE,"$22,000",2,"4Baños",196 m²
-1620505988-11476,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento Amueblado en Renta en Juriquilla Queretaro,"$24,000",2,"2Baños",107 m²
-1620505891-11200,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,"TORRE MARBELLA, EL REFUGIO QUERÉTARO, BELLO DEPARTAMENTO EN RENTA.","$18,500",3,"3Baños",240 m²
-1620505969-11427,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,"Amueblado en juriquilla con impresionante vista, penthouse de 344 mts2! Rahqro","$100,000",4,"4Baños",344 m²
-1620505928-11319,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,"Se Renta Departamento AMUEBLADO en Santa Fe Juriquilla, Alegra Towers, de LUJO !","$20,000",1,"2Baños",98 m²
-1620505836-11093,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,RENTA DEPARTAMENTO EN CONDOMINIO EXCELENTES AMENIDADES,"$16,500",2,"2Baños",100 m²
-1620505872-11168,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,HERMOSO DEPARTAMENTO NUEVO EN RENTA AMUEBLADO UBICADO EN ALTERA TOWERS !!,"$17,500",3,"2Baños",128 m²
-1620506008-11549,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,Departamento en renta en Juriquilla 21537 JL,"$23,501",3,"3Baños",184 m²
-1620505636-10603,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,RENTA DE DEPARTAMENTO AMUEBLADO Y EQUIPADO EN CENTRAL PARK,"$30,000",2,"2Baños",160 m²
-1620505988-11479,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,"Departamento en Renta, en Juriquilla, Querétaro","$17,000",2,"2Baños",90 m²
-1620506014-11581,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,DEPARTAMENTO DE LUJO EN RENTA UBICADO EN JURIQUILLA,"$27,000",3,"3Baños",200 m²
-1620505636-10614,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,"Departamento amueblado en renta, Centro Sur","$20,000",2,"2Baños",162 m²
-1620505780-10951,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Exclusivo departamento en Renta en el Centro de QRO,"$13,000",1,"1Baño",55 m²
-1620505636-10599,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,"DEPARTAMENTO EN RENTA EN CENTRO SUR, KOLORIA","$20,000",3,"2Baños",110 m²
-1620505796-10981,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en renta por la zona de El Mirador OFP 20 1961,"$15,000",2,"2Baños",85 m²
-1620505853-11119,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,PentHouse en renta amoblado con todos los servicios incluidos en Milenio YCC,"$27,000",3,"3Baños",246 m²
-1620505836-11073,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,RENTA DEPARTAMENTO AMUEBLADO,"$20,000",2,"2Baños",120 m²
-1620505817-11021,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,Penthouse en Milenio III amueblado de 3 dormitorios y 246 mts2! RAHQRO,"$27,000",3,"3Baños",246 m²
-1620505796-10975,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,RENTA DEPARTAMENTO AMUEBLADO EN EL MIRADOR,"$9,000",1,"1Baño",70 m²
-1620505997-11514,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento - Juriquilla,"$22,000",2,"2Baños",125 m²
-1620505660-10652,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,DEPARTAMENTO CON ACABADOS DE LUJO CON INCREIBLE VISTA A LA CIUDAD,"$15,700",2,"2Baños",97 m²
-1620506030-11642,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"Juriquilla, Departamento en Planta Baja en Condominio Privado - Renta","$9,500",2,"1Baño",89 m²
-1620505891-11193,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,Departamento en Privalia ambienta 2 recamaras.,"$7,500",2,"2Baños",84 m²
-1620506023-11594,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,"Departamento de lujo en Renta Juriquilla Towers, Querétaro","$18,500",2,"3Baños",128 m²
-1620505988-11471,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Apartment - Juriquilla,"$23,000",2,"2Baños",139 m²
-1620505346-10479,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,"DEPAS EN RENTA EN CUMBRES DE LAGO JURIQUILLA, QUERÉTARO.","$18,000",2,"2Baños",135 m²
-1620506008-11543,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,DEPARTAMENTO AMUEBLADO Y EQUIPADO EN RENTA QUERETARO JURIQUILLA,"$24,500",2,"2Baños",110 m²
-1620505636-10605,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,Departamento en Centro Sur de 157 mts2 y 2 dormitorios! ATC,"$23,000",2,"2Baños",157 m²
-1620505928-11321,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,"Departamento en Renta, en Juriquilla Santa Fe, Querétaro","$22,500",2,"2Baños",147 m²
-1620505988-11493,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Apartment - Juriquilla,"$15,000",2,"2Baños",135 m²
-1620505891-11205,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,NATUUR TOWERS EL REFUGIO Departamento en renta,"$12,000",2,"1Baño",86 m²
-1620506030-11644,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,DEPARTAMENTO EN RENTA EN JURIQUILLA DESARROLLO HANDIKO,"$15,500",2,"2Baños",126 m²
-1620505907-11265,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,Departamento en Renta EL REFUGIO Querétaro 3 habitaciones Amueblado con amenidades,"$18,000",3,"2Baños",170 m²
-1620505969-11411,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,Departamento en renta 2 recamaras con amenidades,"$17,500",2,"2Baños",125 m²
-1620505636-10610,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,Espectacular Departamento Ideal Para Familias Jóvenes O Ejecutivos!,"$14,000",2,"2Baños",85 m²
-1620505928-11306,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento Artigas con vista al Lago. Magnolia Luxury Condos.,"$30,000",3,"3Baños",177 m²
-1620506008-11547,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,"RENTA DE DEPARTAMENTO AMUEBLADO EN SANTA FE, JURIQUILLA","$18,000",1,"1Baño",98 m²
-1620505346-10473,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,DEPARTAMENTO EN RENTA EN 3 VISTAS JURIQUILLA,"$18,000",3,"2Baños",134 m²
-1620505907-11267,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,Departamento en Renta en Residencial el Refugio,"$20,000",2,"2Baños",94 m²
-1620506030-11634,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,Departamento - Juriquilla,"$11,500",2,"2Baños",83 m²
-1620506030-11645,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,DEPARTAMENTO EN RENTA EN JURIQUILLA DESARROLLO HANDIKO,"$18,000",2,"2Baños",124 m²
-1620505681-10705,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,"DEPARTAMENTO  EN RESIDENCIAL LOS FRESNOS, QUERÉTARO","$8,500",2,"2Baños",90 m²
-1620505817-11038,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,Renta Departamento Amueblado En Renta Queretaro La Cima Towers,"$19,800",3,"2Baños",139 m²
-1620505761-10881,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,DEPARTAMENTO AMUEBLADO EN RENTA EN SIERRA AZUL QUERÉTARO,"$35,000",3,"3Baños",169 m²
-1620505613-10547,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,RENTA DE DEPARTAMENTO EN CENTRO SUR,"$25,000",2,"2Baños",108 m²
-1620505942-11331,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,RENTA DE DEPARTAMENTO EN JURIQUILLA TOWERS  DE 1 RECÁMARA KING WALKING CLÓSET,"$20,000",1,"1Baño",90 m²
-1620505853-11109,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,Departamento amueblado y equipado en Renta. Milenio III en 2° piso con 3 recámaras y ...,"$13,000",3,"2Baños",172 m²
-1620505853-11104,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,MILENIO III DEPARTAMENTO 2 RECAMARAS,"$10,500",2,"2Baños",130 m²
-1620505997-11508,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento tipo dúplex en Altos de Juriquilla sin amueblar! RAHQRO,"$14,500",2,"3Baños",156 m²
-1620505836-11076,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,RENTA DEPARTAMENTO MILENIO III A 8 MIN DEL CENTRO,"$15,320",2,"2Baños",93 m²
-1620505928-11316,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento en renta,"$16,500",3,"2Baños",126 m²
-1620505796-10964,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en Renta RID10436,"$14,500",2,"2Baños",120 m²
+1620505613-10568,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Renta Depto Centro Sur  2 Rec en Queretaro Amueblado Central Park T300,"$22,000",2,"3
+                                    
+                                
+                                Baños",156 m²
+1620505969-11434,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,Renta departamento amueblado Santa Fe Juriquilla Querétaro Habtarea Towers 2 Rec,"$16,000",2,"2
+                                    
+                                
+                                Baños",100 m²
+1620505836-11090,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,Se  Renta  PH en Milenio amueblado o sin amueblar,"$14,800",2,"2
+                                    
+                                
+                                Baños",110 m²
+1620505613-10551,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Departamento en renta Centro Sur 2 habitaciones AVH,"$14,000",2,"2
+                                    
+                                
+                                Baños",87 m²
+1620505979-11454,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,RENTA DE DEPARTAMENTO AMUEBLADO JURIQUILLA QUERETARO,"$25,000",3,"2
+                                    
+                                
+                                Baños",150 m²
+1620505796-10985,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,RENTA DEPARTAMENTO AMUEBLADO TERRAZA EN EL MIRADOR,"$9,500",1,"1
+                                    
+                                
+                                Baño",70 m²
+1620505960-11407,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Departamento en renta muy iluminado GGV#21-1947,"$14,500",2,"2
+                                    
+                                
+                                Baños",109 m²
+1620505853-11110,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,DEPARTAMENTO EN RENTA EN QUERETARO Milenio 3a. Sección,"$18,000",2,"2
+                                    
+                                
+                                Baños",147 m²
+1620505613-10559,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Elegante Departamento en RENTA en Alia Centro Sur,"$18,500",3,"3
+                                    
+                                
+                                Baños",129 m²
+1620505660-10657,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,DEPARTAMENTO  EN  ALIA SKY LIVING CENTRO SUR,"$16,500",2,"2
+                                    
+                                
+                                Baños",100 m²
+1620505928-11300,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento en Renta a estrenar,"$15,000",3,"2
+                                    
+                                
+                                Baños",125 m²
+1620506030-11622,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"Renta Departamento junto al Náutico de Juriquilla, Querétaro, Querétaro.","$15,500",1,"1
+                                    
+                                
+                                Baño",100 m²
+1620505761-10891,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,RENTA DE DEPARTAMENTO EN EL CAMPANARIO 3 RECÁMARAS 2 BAÑOS BALCÓN,"$19,500",3,"2
+                                    
+                                
+                                Baños",96 m²
+1620505853-11105,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,"Renta de Amplio departamento con 2 recamara, ubicado en Fraccionamiento Milenio","$14,000",2,"2
+                                    
+                                
+                                Baños",175 m²
+1620505942-11346,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,"RENTA DE DEPARTAMENTO EN WISE LIVING, JURIQUILLA","$24,500",1,"1
+                                    
+                                
+                                Baño",90 m²
+1620505960-11382,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Departamentos en Renta en Real De Juriquilla,"$18,500",2,"2
+                                    
+                                
+                                Baños",120 m²
+1620505891-11209,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,RENTA DEPARTAMENTO AMUEBLADO EL REFUGIO,"$14,000",3,"2
+                                    
+                                
+                                Baños",110 m²
+1620505907-11247,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,Departamento en zona premium del Refugio sin amueblar de 207 mts2! RAH,"$14,000",1,"2
+                                    
+                                
+                                Baños",207 m²
+1620506008-11537,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,Departamento en Juriquilla,"$32,000",3,"3
+                                    
+                                
+                                Baños",170 m²
+1620505907-11266,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,"Lindo depa en renta en Privalia Ambienta, Cond. Nopal","$6,800",2,"2
+                                    
+                                
+                                Baños",82 m²
+1620505969-11416,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,"En renta departamento amueblado en Juriquilla, Querétaro","$18,000",2,"2
+                                    
+                                
+                                Baños",91 m²
+1620505725-10800,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Renta departamento amueblado Adamant Queretaro,"$19,000",2,"2
+                                    
+                                
+                                Baños",76 m²
+1620506014-11566,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,Renta Departamento en Biosfera Juriquilla 3 Recamaras y excelente vista.,"$18,000",3,"3
+                                    
+                                
+                                Baños",133 m²
+1620505997-11528,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Renta depa amueblado con excelentes amenidades en Juriquilla JF,"$19,000",1,"2
+                                    
+                                
+                                Baños",98 m²
+1620505346-10465,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Hermoso depa amueblado y equipado listo para habitar en Cumbres del Lago JF,"$20,500",3,"3
+                                    
+                                
+                                Baños",106 m²
+1620505836-11081,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,RENTA DEPARTAMENTO AMUEBLADO MILENIO,"$14,000",3,"2
+                                    
+                                
+                                Baños",140 m²
+1620505346-10469,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Departamento en renta,"$25,000",3,"3
+                                    
+                                
+                                Baños",232 m²
+1620505660-10671,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,RENTA DE DEPARTAMENTO AMUEBLADO NUEVO ZONA CENTRO SUR,"$19,000",2,"2
+                                    
+                                
+                                Baños",93 m²
+1620505891-11192,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,DEPARTAMENTO NUEVO EN RENTA EN NATUUR TOWERS EN ZONA DE EL REFUGIO,"$18,000",3,"2
+                                    
+                                
+                                Baños",160 m²
+1620505681-10695,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,RENTA DEPARTAMENTO ARCO DE PIEDRA JURICA,"$24,000",3,"2
+                                    
+                                
+                                Baños",175 m²
+1620505660-10664,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,Departamento sin Amoblar en Centro Sur de 2 Dormitorios! Rahqro,"$14,000",2,"2
+                                    
+                                
+                                Baños",87 m²
+1620506008-11540,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,Departamento con bonita vista en Altos de Juriquilla de 109 mts2! JGJ,"$14,500",2,"2
+                                    
+                                
+                                Baños",109 m²
+1620505988-11491,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento amueblado - Tu hogar rodeado de belleza natural - Múltiples y diversos e...,"$38,000",3,"3
+                                    
+                                
+                                Baños",161 m²
+1620505817-11014,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,DEPTO EN MILENIO LOS MEJORES ATARDECERES,"$15,000",3,"2
+                                    
+                                
+                                Baños",125 m²
+1620505780-10950,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Renta departamento a solo unos minutos del Centro de la ciudad AGT,"$13,000",1,"1
+                                    
+                                
+                                Baño",55 m²
+1620505796-10961,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en renta a estrenar en RES del PARQUE,"$11,500",2,"2
+                                    
+                                
+                                Baños",85 m²
+1620506014-11584,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,DEPARTAMENTO PENTHOUSE EN RENTA EN BIOSFERA TOWERS EN JURIQUILLA CON VISTA,"$28,000",3,"4
+                                    
+                                
+                                Baños",178 m²
+1620506014-11569,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,HERMOSO DEPARTAMENTO AMUEBLADO EN RENTA UBICADO EN JURIQUILLA,"$38,000",3,"2
+                                    
+                                
+                                Baños",224 m²
+1620505704-10739,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,Departamento amoblado en el pueblito de 3 dormitorios y 114 mts2! Rahqro,"$13,000",3,"3
+                                    
+                                
+                                Baños",114 m²
+1620505942-11324,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,"Departamento en Renta, en Juriquilla, Querétaro","$14,000",2,"2
+                                    
+                                
+                                Baños",109 m²
+1620505613-10567,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,RENTA DEPARTAMENTO AMUEBLADO EN CENTRO SUR 2 RECAMARAS 2 BAÑOS,"$21,000",2,"2
+                                    
+                                
+                                Baños",87 m²
+1620505872-11174,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,"Departamento en renta en Natuur, San José el Alto","$18,100",3,"2
+                                    
+                                
+                                Baños",160 m²
+1620505942-11330,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,Departamento - Juriquilla,"$25,000",2,"2
+                                    
+                                
+                                Baños",170 m²
+1620505960-11401,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Lindo Departamento en Renta. Juriquilla. FVR,"$23,500",3,"3
+                                    
+                                
+                                Baños",184 m²
+1620506014-11567,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,"RENTO DEPA EN JURIQUILLA, QUERÉTARO.","$13,500",2,"2
+                                    
+                                
+                                Baños",91 m²
+1620505836-11096,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,"DEPARTAMENTO EN RENTA, MILENIO III, QUERÉTARO, QRO.","$14,080",3,"2
+                                    
+                                
+                                Baños",140 m²
+1620505761-10882,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,DEPARTAMENTO NUEVO EN LA RESERVA EL CAMPANARIO,"$15,000",2,"2
+                                    
+                                
+                                Baños",113 m²
+1620505872-11175,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,RENTA DEPARTAMENTOS AMUEBLADOS - NATURR- EL REFUGIO - QUERETARO,"$20,000",2,"2
+                                    
+                                
+                                Baños",90 m²
+1620505942-11335,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,Departamento Exclusivo en Renta Amueblado Juriquilla Santa Fe,"$25,000",2,"2
+                                    
+                                
+                                Baños",137 m²
+1620505704-10757,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,"Hermoso departamento en renta 2 recamaras en el pueblito, sin muebles jgj","$7,800",2,"2
+                                    
+                                
+                                Baños",80 m²
+1620505725-10801,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Renta Departamento Adamant Queretaro  Amueblado,"$19,000",2,"2
+                                    
+                                
+                                Baños",75 m²
+1620505979-11444,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,Departamento en Renta a Estrenar en Juriquilla,"$16,000",2,"2
+                                    
+                                
+                                Baños",126 m²
+1620505997-11522,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento - Juriquilla,"$30,000",3,"2
+                                    
+                                
+                                Baños",175 m²
+1620505979-11449,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,Se Renta Departamento 2 Recámaras en Juriquilla Posee Alberca y Gym YCC,"$17,000",2,"2
+                                    
+                                
+                                Baños",98 m²
+1620505960-11379,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,"Renta de Departamento  Amueblado en, Querétaro, ideal para ejecutivo EN RENTA","$14,000",1,"1
+                                    
+                                
+                                Baño",70 m²
+1620505836-11084,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,Penthouse en renta amoblado de 3 dormitorios y 246 mts2 en El Milenio III RAHQRO,"$27,000",3,"3
+                                    
+                                
+                                Baños",246 m²
+1620505761-10879,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,DEPARTAMENTO NUEVO AMUEBLADO EN CITY VIEW,"$24,000",2,"2
+                                    
+                                
+                                Baños",133 m²
+1620505636-10600,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,"Renta Departamento Centro Sur, excelente ubicación","$15,085",2,"2
+                                    
+                                
+                                Baños",109 m²
+1620505796-10972,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en renta por la zona de El Mirador,"$14,000",2,"2
+                                    
+                                
+                                Baños",122 m²
+1620505681-10681,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,Se rentan departamentos (tipo loft) y recamaras en Av. Paseo Jurica,"$4,500",1,"1
+                                    
+                                
+                                Baño",60 m²
+1620505853-11127,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,Departamento en renta Milenio 3 habitaciones AVH,"$14,000",3,"2
+                                    
+                                
+                                Baños",146 m²
+1620505853-11121,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,"Loft en Renta, en Milenio 3a. Sección, Querétaro","$9,650",1,"1
+                                    
+                                
+                                Baño",27 m²
+1620505681-10706,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,RENTA DEPARTAMENTO PALMAS CONDESA,"$11,500",2,"2
+                                    
+                                
+                                Baños",134 m²
+1620506008-11531,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,"D*RENTA DE DEPARTAMENTO EN JURIQUILLA $18,000.00 AMUEBLADO VISTA PANORÁMICA","$18,000",1,"1
+                                    
+                                
+                                Baño",120 m²
+1620505741-10822,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,DEPARTAMENTO EN RENTA EN SIERRA AZUL CON VISTA A LA CIUDAD CAMPANARIO QUERETARO,"$23,890",2,"2
+                                    
+                                
+                                Baños",210 m²
+1620506023-11593,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,RENTA DEPARTAMENTO EN JURIQUILLA SANTA FE JACUZZI,"$12,500",3,"3
+                                    
+                                
+                                Baños",210 m²
+1620505997-11505,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento - Juriquilla,"$15,400",3,"2
+                                    
+                                
+                                Baños",97 m²
+1620505817-11029,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,"Renta de departamento Milenio, Querétaro","$23,000",2,"2
+                                    
+                                
+                                Baños",134 m²
+1620505853-11120,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,RENTA DEPARTAMENTO EN CONDOMINIO CON ALBERCA MILENIO III,"$10,000",2,"2
+                                    
+                                
+                                Baños",100 m²
+1620505907-11238,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,"DEPARTAMENTO EN RENTA 3 RECAMARAS CON ALBERCA, QUERETARO","$12,500",3,"2
+                                    
+                                
+                                Baños",120 m²
+1620505997-11524,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento - Juriquilla,"$22,000",2,"2
+                                    
+                                
+                                Baños",145 m²
+1620506023-11607,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,Departamento - Juriquilla,"$20,000",3,"3
+                                    
+                                
+                                Baños",186 m²
+1620505780-10937,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Departamento en Centro Sur de 157 mts2 y 2 dormitorios! ATC,"$23,000",2,"2
+                                    
+                                
+                                Baños",157 m²
+1620505725-10807,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Departamento sin amueblar en la zona de mayor plusvalía de Querétaro! RAHQRO,"$25,000",2,"2
+                                    
+                                
+                                Baños",76 m²
+1620505960-11386,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Renta  Departamento Queretaro  2 rec  Biosfera Juriquilla,"$15,000",2,"2
+                                    
+                                
+                                Baños",111 m²
+1620505891-11183,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,Querétaro  El Refugio increíble departamento en renta,"$15,900",3,"3
+                                    
+                                
+                                Baños",157 m²
+1620505780-10934,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Departamento en Latitud - La Victoria,"$19,000",3,"2
+                                    
+                                
+                                Baños",129 m²
+1620505979-11439,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,RENTA DEPARTAMENTO AMUEBLADO EN JURIQUILLA SANTA FE 1 DORMITORIO,"$22,500",1,"2
+                                    
+                                
+                                Baños",98 m²
+1620505928-11307,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,"PH Amplio, Amueblado y con Acabados de Lujo en Cumbres del Lago","$28,500",3,"3
+                                    
+                                
+                                Baños",233 m²
+1620505741-10838,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,"Departamento amueblado  en renta en Adamant, Campanario","$14,000",2,"1
+                                    
+                                
+                                Baño",52 m²
+1620505761-10876,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,Departamento en Renta en La Reserva El Campanario,"$22,000",3,"3
+                                    
+                                
+                                Baños",150 m²
+1620506008-11532,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,"EXCELENTE DEPARTAMENTO NUEVO EN RENTA, FRACC. ALTOS JURIQUILLA","$12,750",2,"2
+                                    
+                                
+                                Baños",92 m²
+1620505979-11468,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,"DEPARTAMENTO LOFT EN RENTA AMUEBLADO, EN JURIQUILLA, 2 RECAMARAS 160 M2","$27,000",2,"2
+                                    
+                                
+                                Baños",160 m²
+1620505636-10615,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,"Bello departamento en renta Amueblado, Centro Sur OFP EX965","$21,000",2,"2
+                                    
+                                
+                                Baños",87 m²
+1620505346-10470,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Departamento en renta,"$16,500",2,"2
+                                    
+                                
+                                Baños",105 m²
+1620505780-10932,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Renta Depto Queretaro Amueblado 1 Rec Latitud Victoria Centro,"$14,500",1,"1
+                                    
+                                
+                                Baño",100 m²
+1620505636-10602,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,Espectacular Departamento de 2 Recámaras y 2  Baños en Centro Sur Ofp 19-600,"$15,000",2,"2
+                                    
+                                
+                                Baños",87 m²
+1620505997-11502,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,DEPARTAMENTO EN JURIQUILLA SANTA FE,"$21,000",3,"2
+                                    
+                                
+                                Baños",130 m²
+1620505741-10827,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,"Departamento de Lujo en renta amueblado, Campanario","$16,500",2,"2
+                                    
+                                
+                                Baños",90 m²
+1620505997-11501,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,"DEPARTAMENTO EN RENTA EN BIOSFERA TOWERS, JURIQUILLA, AMUEBLADO","$20,000",3,"2
+                                    
+                                
+                                Baños",119 m²
+1620506023-11616,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,DEPARTAMENTO EN RENTA VÉRTICE JURIQUILLA,"$13,500",2,"2
+                                    
+                                
+                                Baños",90 m²
+1620505636-10609,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,LUJOSO DEPARTAMENTO AMUEBLADO Y EQUIPADO DE 162 m2 CON AMPLIA TERRAZA,"$24,000",2,"2
+                                    
+                                
+                                Baños",162 m²
+1620505346-10467,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,RENTA DE DEPARTAMENTO 2 HABITACIONES VISTA DIAMANTE,"$22,000",2,"4
+                                    
+                                
+                                Baños",196 m²
+1620505988-11476,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento Amueblado en Renta en Juriquilla Queretaro,"$24,000",2,"2
+                                    
+                                
+                                Baños",107 m²
+1620505891-11200,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,"TORRE MARBELLA, EL REFUGIO QUERÉTARO, BELLO DEPARTAMENTO EN RENTA.","$18,500",3,"3
+                                    
+                                
+                                Baños",240 m²
+1620505969-11427,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,"Amueblado en juriquilla con impresionante vista, penthouse de 344 mts2! Rahqro","$100,000",4,"4
+                                    
+                                
+                                Baños",344 m²
+1620505928-11319,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,"Se Renta Departamento AMUEBLADO en Santa Fe Juriquilla, Alegra Towers, de LUJO !","$20,000",1,"2
+                                    
+                                
+                                Baños",98 m²
+1620505836-11093,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,RENTA DEPARTAMENTO EN CONDOMINIO EXCELENTES AMENIDADES,"$16,500",2,"2
+                                    
+                                
+                                Baños",100 m²
+1620505872-11168,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,HERMOSO DEPARTAMENTO NUEVO EN RENTA AMUEBLADO UBICADO EN ALTERA TOWERS !!,"$17,500",3,"2
+                                    
+                                
+                                Baños",128 m²
+1620506008-11549,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,Departamento en renta en Juriquilla 21537 JL,"$23,501",3,"3
+                                    
+                                
+                                Baños",184 m²
+1620505636-10603,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,RENTA DE DEPARTAMENTO AMUEBLADO Y EQUIPADO EN CENTRAL PARK,"$30,000",2,"2
+                                    
+                                
+                                Baños",160 m²
+1620505988-11479,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,"Departamento en Renta, en Juriquilla, Querétaro","$17,000",2,"2
+                                    
+                                
+                                Baños",90 m²
+1620506014-11581,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,DEPARTAMENTO DE LUJO EN RENTA UBICADO EN JURIQUILLA,"$27,000",3,"3
+                                    
+                                
+                                Baños",200 m²
+1620505636-10614,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,"Departamento amueblado en renta, Centro Sur","$20,000",2,"2
+                                    
+                                
+                                Baños",162 m²
+1620505780-10951,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Exclusivo departamento en Renta en el Centro de QRO,"$13,000",1,"1
+                                    
+                                
+                                Baño",55 m²
+1620505636-10599,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,"DEPARTAMENTO EN RENTA EN CENTRO SUR, KOLORIA","$20,000",3,"2
+                                    
+                                
+                                Baños",110 m²
+1620505796-10981,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en renta por la zona de El Mirador OFP 20 1961,"$15,000",2,"2
+                                    
+                                
+                                Baños",85 m²
+1620505853-11119,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,PentHouse en renta amoblado con todos los servicios incluidos en Milenio YCC,"$27,000",3,"3
+                                    
+                                
+                                Baños",246 m²
+1620505836-11073,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,RENTA DEPARTAMENTO AMUEBLADO,"$20,000",2,"2
+                                    
+                                
+                                Baños",120 m²
+1620505817-11021,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,Penthouse en Milenio III amueblado de 3 dormitorios y 246 mts2! RAHQRO,"$27,000",3,"3
+                                    
+                                
+                                Baños",246 m²
+1620505796-10975,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,RENTA DEPARTAMENTO AMUEBLADO EN EL MIRADOR,"$9,000",1,"1
+                                    
+                                
+                                Baño",70 m²
+1620505997-11514,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento - Juriquilla,"$22,000",2,"2
+                                    
+                                
+                                Baños",125 m²
+1620505660-10652,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,DEPARTAMENTO CON ACABADOS DE LUJO CON INCREIBLE VISTA A LA CIUDAD,"$15,700",2,"2
+                                    
+                                
+                                Baños",97 m²
+1620506030-11642,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"Juriquilla, Departamento en Planta Baja en Condominio Privado - Renta","$9,500",2,"1
+                                    
+                                
+                                Baño",89 m²
+1620505891-11193,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,Departamento en Privalia ambienta 2 recamaras.,"$7,500",2,"2
+                                    
+                                
+                                Baños",84 m²
+1620506023-11594,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,"Departamento de lujo en Renta Juriquilla Towers, Querétaro","$18,500",2,"3
+                                    
+                                
+                                Baños",128 m²
+1620505988-11471,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Apartment - Juriquilla,"$23,000",2,"2
+                                    
+                                
+                                Baños",139 m²
+1620505346-10479,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,"DEPAS EN RENTA EN CUMBRES DE LAGO JURIQUILLA, QUERÉTARO.","$18,000",2,"2
+                                    
+                                
+                                Baños",135 m²
+1620506008-11543,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,DEPARTAMENTO AMUEBLADO Y EQUIPADO EN RENTA QUERETARO JURIQUILLA,"$24,500",2,"2
+                                    
+                                
+                                Baños",110 m²
+1620505636-10605,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,Departamento en Centro Sur de 157 mts2 y 2 dormitorios! ATC,"$23,000",2,"2
+                                    
+                                
+                                Baños",157 m²
+1620505928-11321,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,"Departamento en Renta, en Juriquilla Santa Fe, Querétaro","$22,500",2,"2
+                                    
+                                
+                                Baños",147 m²
+1620505988-11493,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Apartment - Juriquilla,"$15,000",2,"2
+                                    
+                                
+                                Baños",135 m²
+1620505891-11205,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,NATUUR TOWERS EL REFUGIO Departamento en renta,"$12,000",2,"1
+                                    
+                                
+                                Baño",86 m²
+1620506030-11644,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,DEPARTAMENTO EN RENTA EN JURIQUILLA DESARROLLO HANDIKO,"$15,500",2,"2
+                                    
+                                
+                                Baños",126 m²
+1620505907-11265,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,Departamento en Renta EL REFUGIO Querétaro 3 habitaciones Amueblado con amenidades,"$18,000",3,"2
+                                    
+                                
+                                Baños",170 m²
+1620505969-11411,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,Departamento en renta 2 recamaras con amenidades,"$17,500",2,"2
+                                    
+                                
+                                Baños",125 m²
+1620505636-10610,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,Espectacular Departamento Ideal Para Familias Jóvenes O Ejecutivos!,"$14,000",2,"2
+                                    
+                                
+                                Baños",85 m²
+1620505928-11306,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento Artigas con vista al Lago. Magnolia Luxury Condos.,"$30,000",3,"3
+                                    
+                                
+                                Baños",177 m²
+1620506008-11547,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,"RENTA DE DEPARTAMENTO AMUEBLADO EN SANTA FE, JURIQUILLA","$18,000",1,"1
+                                    
+                                
+                                Baño",98 m²
+1620505346-10473,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,DEPARTAMENTO EN RENTA EN 3 VISTAS JURIQUILLA,"$18,000",3,"2
+                                    
+                                
+                                Baños",134 m²
+1620505907-11267,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,Departamento en Renta en Residencial el Refugio,"$20,000",2,"2
+                                    
+                                
+                                Baños",94 m²
+1620506030-11634,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,Departamento - Juriquilla,"$11,500",2,"2
+                                    
+                                
+                                Baños",83 m²
+1620506030-11645,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,DEPARTAMENTO EN RENTA EN JURIQUILLA DESARROLLO HANDIKO,"$18,000",2,"2
+                                    
+                                
+                                Baños",124 m²
+1620505681-10705,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,"DEPARTAMENTO  EN RESIDENCIAL LOS FRESNOS, QUERÉTARO","$8,500",2,"2
+                                    
+                                
+                                Baños",90 m²
+1620505817-11038,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,Renta Departamento Amueblado En Renta Queretaro La Cima Towers,"$19,800",3,"2
+                                    
+                                
+                                Baños",139 m²
+1620505761-10881,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,DEPARTAMENTO AMUEBLADO EN RENTA EN SIERRA AZUL QUERÉTARO,"$35,000",3,"3
+                                    
+                                
+                                Baños",169 m²
+1620505613-10547,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,RENTA DE DEPARTAMENTO EN CENTRO SUR,"$25,000",2,"2
+                                    
+                                
+                                Baños",108 m²
+1620505942-11331,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,RENTA DE DEPARTAMENTO EN JURIQUILLA TOWERS  DE 1 RECÁMARA KING WALKING CLÓSET,"$20,000",1,"1
+                                    
+                                
+                                Baño",90 m²
+1620505853-11109,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,Departamento amueblado y equipado en Renta. Milenio III en 2° piso con 3 recámaras y ...,"$13,000",3,"2
+                                    
+                                
+                                Baños",172 m²
+1620505853-11104,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,MILENIO III DEPARTAMENTO 2 RECAMARAS,"$10,500",2,"2
+                                    
+                                
+                                Baños",130 m²
+1620505997-11508,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento tipo dúplex en Altos de Juriquilla sin amueblar! RAHQRO,"$14,500",2,"3
+                                    
+                                
+                                Baños",156 m²
+1620505836-11076,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,RENTA DEPARTAMENTO MILENIO III A 8 MIN DEL CENTRO,"$15,320",2,"2
+                                    
+                                
+                                Baños",93 m²
+1620505928-11316,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento en renta,"$16,500",3,"2
+                                    
+                                
+                                Baños",126 m²
+1620505796-10964,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en Renta RID10436,"$14,500",2,"2
+                                    
+                                
+                                Baños",120 m²
 1620505872-11181,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,SE RENTA DEPARTAMENTO EN ALTERRA TOWERS,"$12,500",2,"2
                                     
                                 
@@ -1463,256 +1895,1006 @@
                                     
                                 
                                 Baños",128 m²
-1620505853-11116,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,Excelente Ph en Renta,"$17,500",2,"2Baños",163 m²
-1620505928-11315,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,"Departamentos de lujo en AMBAR TOWER dentro de Cumbres del Lago, Juriquilla!","$22,000",4,"3Baños",171 m²
-1620505988-11484,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento - Juriquilla,"$18,500",2,"2Baños",160 m²
-1620506014-11573,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,Renta Departamento Amueblado En Juriquilla Santa Fe  1 Dormitorio,"$22,500",1,"2Baños",98 m²
-1620505988-11495,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Fray Junipero departamento en renta de 2 recamaras!,"$17,000",2,"3Baños",130 m²
-1620505741-10834,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,Adamant Piso 10,"$14,500",2,"2Baños",73 m²
-1620506030-11638,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"Departamento en renta en Juriquilla, Querétaro","$15,000",2,"2Baños",91 m²
-1620506008-11544,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,"BIOSFERA JURIQUILLA ,DEPARTAMETO DE 2 HABITACIONES .","$15,000",2,"2Baños",95 m²
-1620505796-10958,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,"Departamento en renta mirador, planta alta","$8,000",3,"2Baños",90 m²
-1620505942-11334,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,"Departamento en Renta amueblado, en Biosfera Juriquilla con 2 recamaras y Balcón","$18,000",2,"2Baños",90 m²
-1620505997-11525,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento - Juriquilla,"$25,000",2,"2Baños",180 m²
-1620506008-11536,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,"DEPARTAMENTO en RENTA, PLANTA BAJA, ESTUPENDA UBICACION y ESPACIOS","$16,500",3,"2Baños",173 m²
-1620505853-11117,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,Renta Departamento Milenio lll,"$25,000",2,"2Baños",120 m²
-1620505997-11523,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,DEPARTAMENTO EN RENTA AMUEBLADO EN LIFE  JURIQUILLA,"$23,500",3,"2Baños",130 m²
-1620505725-10798,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Departamento en Renta en Lomas del Marqués 1 Rec 1 Baño,"$12,900",1,"1Baño",70 m²
-1620505942-11328,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,"Departamento Amueblado y Equipado en Juriquilla, Renta","$15,500",2,"2Baños",110 m²
-1620505817-11024,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,IRR Departamento Amueblado en Renta en Milenio III,"$16,000",3,"2Baños",133 m²
-1620505942-11339,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,"DEPARTAMENTO EN RENTA EN REAL DE JURIQUILLA, AMUEBLADO","$17,500",3,"2Baños",120 m²
-1620505997-11526,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Oportunidad departamento en renta Juriquilla Querétaro,"$11,500",3,"2Baños",97 m²
-1620505988-11486,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Lindo Departamenteo en Renta en Juriquilla Aqc,"$22,500",2,"2Baños",94 m²
-1620505741-10835,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,Departamento sin amueblar en El Campanario de 76 mts2! RCS,"$25,000",2,"2Baños",76 m²
-1620505725-10810,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,DEPARTAMENTO AMUEBLADO EN RENTA EN QUERETARO SIERRA AZUL,"$29,500",3,"3Baños",160 m²
-1620506023-11620,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,"Planta baja con 2 dormitorios y buena ubicación, departamento sin amueblar! RAH","$7,400",2,"2Baños",72 m²
-1620505817-11018,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,RENTA DEPARTAMENTOS AMUEBLADOS EN MILENIO III QUERETARO,"$15,000",3,"2Baños",111 m²
-1620505780-10942,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,"RENTA DEPARTAMENTO CENTRO SUR, CERCA DE LA SALIDA A MEXICO ROOF GARDEN GIMNASIO.","$16,000",3,"2Baños",110 m²
-1620505660-10670,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,"Departamento en renta, Distrito Piamonte","$22,000",2,"2Baños",87 m²
-1620506023-11618,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,Departamento - Juriquilla,"$11,000",2,"2Baños",90 m²
-1620505853-11099,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,"Departamento en renta  en Milenio III, Qro.","$17,500",3,"3Baños",170 m²
-1620505960-11385,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,"DEPARTAMENTO EN RENTA EN LIFE JURIQUILLA, DOS RECÁMARAS","$15,000",2,"2Baños",119 m²
-1620505928-11295,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,DEPARTAMENTO AMUEBLADO EN RENTA SOBRE BLVD DE LA CAMPANA EN JURIQUILLA QUERETARO,"$18,500",2,"2Baños",100 m²
-1620505907-11249,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,HERMOSO DEPARTAMENTO NUEVO EN RENTA AMUEBLADO UBICADO EN ALTERA TOWERS !!,"$17,500",3,"2Baños",128 m²
-1620505872-11170,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,Renta departamento Refugio,"$12,500",2,"2Baños",92 m²
-1620505761-10896,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,"CAMPANARIO SIERRA AZUL, LOFT AMUEBLADO EN RENTA","$18,500",1,"1Baño",67 m²
-1620505891-11194,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,"RENTO DEPARTAMENTO QUERETARO FRACC,PRIVALIA AMBIENTA IDEAL ROMMIES UBICADISIMO","$7,000",2,"2Baños",73 m²
-1620506014-11586,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,"RENTA de Departamento amueblado de lujo en Juriquilla Towers, Queretaro","$32,000",3,"3Baños",174 m²
-1620505613-10553,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,DEPARTAMENTO EN RENTA EN TORRE 300 CENTRAL PARK QUERÉTARO,"$17,000",2,"2Baños",102 m²
-1620505891-11190,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,RENTA DEPARTAMENTOS AMUEBLADOS - NATURR- EL REFUGIO - QUERETARO,"$20,000",2,"2Baños",90 m²
-1620505988-11473,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Fray Junipero Serra departamento a estrenar de 2 recamaras!,"$17,000",2,"3Baños",130 m²
-1620505969-11435,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,Departamento en renta NUEVO en Biogrand JURIQUILLA,"$10,500",2,"2Baños",85 m²
-1620505741-10845,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,Renta depa completamente amueblado en condominio de lujo en El Campanario JF,"$20,500",1,"1Baño",40 m²
-1620505613-10556,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,DEPARTAMENTO EN RENTA EN CENTRAL PARK,"$38,000",3,"4Baños",270 m²
-1620505960-11402,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,"Hermoso departamento amueblado en Querétaro, Juriquilla","$21,000",2,"2Baños",186 m²
-1620505346-10464,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,DEPARTAMENTO EN RENTA CON ALBERCA EN CUMBRES DEL LAGO JURIQUILLA,"$19,500",3,"2Baños",125 m²
-1620505960-11389,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Departamento Amueblado en Renta  Juriquilla - Cercano a Fresko y UVM,"$11,500",3,"1Baño",114 m²
-1620505928-11304,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,RENTA DE DEPARTAMENTO 2 HABITACIONES VISTA DIAMANTE,"$22,000",2,"4Baños",196 m²
-1620506008-11539,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,Departamento amueblado cerca de UVM en renta Queretaro,"$14,000",2,"2Baños",160 m²
-1620505761-10892,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,PRECIOSO DEPARTAMENTO DE LUJO PARA EJECUTIVOS AMUEBLADO,"$16,000",1,"1Baño",85 m²
-1620506030-11646,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,JURIQUILLA RENTA DEPARTAMENTO 3 RECAMARAS COCINA EQUIPADA ALBERCA GYM,"$20,500",3,"2Baños",126 m²
-1620505988-11496,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento sin amoblar en Fray Junipero Serra de 2 dormitorios! RAHQRO,"$22,000",2,"3Baños",130 m²
-1620505741-10841,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,EL CAMPANARIO DEPA EN RENTA 2 RECAMARAS EDF CON ALBERCA LUDOTECA GYM,"$25,000",2,"2Baños",76 m²
-1620506030-11643,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,Departamento en renta amueblado con servicios en Juriquilla,"$11,500",1,"1Baño",60 m²
-1620505836-11069,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,"DEPARTAMENTO EN RENTA EN MONTEBELLO TOWERS, MILENIO III","$25,000",2,"2Baños",134 m²
-1620505660-10661,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,RENTA DEPARTAMENTO AMUEBLADO CENTRAL PARK,"$23,000",2,"2Baños",157 m²
-1620505741-10839,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,"RENTA DE EXCLUSIVO DEPARTAMENTO AMUEBLADO EN EDIFICIO ADAMANT, QUERÉTARO","$18,000",2,"2Baños",74 m²
-1620505346-10488,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,"Dúplex Lujoso con Amenidades, Sin Amoblar ubicado en cumbres del lago RAHQRO","$17,000",2,"2Baños",105 m²
-1620506014-11561,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,Renta de Amplio Departamento Amueblado en Juriquilla,"$15,500",2,"2Baños",110 m²
-1620505346-10485,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Departamento amueblado en renta en juriquilla con servicios incluidos.,"$15,000",1,"1Baño",68 m²
-1620505613-10555,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,"RENTA DE DEPARTAMENTO EN CENTRAL PARK, 3 ESTACIONAMIENTOS, 2 BAÑOS, 2 RECÁMARAS","$29,000",2,"2Baños",163 m²
-1620505988-11492,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,"¡¡¡ Departamento en Renta, en zona residencial de Juriquilla !!!","$17,000",3,"3Baños",132 m²
-1620505704-10763,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,Amplio y cómodo departamento de 3 recamaras en segundo nivel Fracc. Puerta Real,"$9,300",3,"2Baños",125 m²
-1620505725-10815,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,DEPARTAMENTO AMUEBLADO Y EQUIPADO ADAMANT INCREIBLE VISTA,"$18,000",1,"1Baño",57 m²
-1620505960-11396,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,"Departamento en Renta Semi amueblado en Juriquilla, dos recámaras","$13,900",2,"1Baño",69 m²
-1620505960-11397,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Lujoso Depa en Renta. Juriquilla. FVR,"$30,000",3,"4Baños",172 m²
-1620505969-11418,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,"RENTA DEPARTAMENTO 2 REC. $15,500.00","$15,500",2,"2Baños",110 m²
-1620506030-11637,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"RENTA de Departamento en Juriquilla, Queretaro, Edificio Tres Vistas Juriquilla","$13,500",3,"2Baños",135 m²
-1620505891-11184,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,"Departamento en Renta, Querétaro, Querétaro","$13,900",2,"2Baños",120 m²
-1620506030-11631,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,Departamento amueblado en renta 2 recámaras,"$22,000",2,"2Baños",126 m²
-1620505928-11298,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento Duplex en Renta 2 Recamaras Excelentes Amenidades Ycc,"$14,000",2,"3Baños",156 m²
-1620505979-11452,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,Departamento en Renta en BIOSFERA TOWERS JURIQUILLA,"$27,000",3,"3Baños",175 m²
-1620505836-11095,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,P H  AMUEBLADO EN RENTA MILENIO III,"$18,000",3,"2Baños",136 m²
-1620505988-11485,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,EXCLUSIVO DEPARTAMENTO EN RENTA,"$18,000",3,"3Baños",166 m²
-1620505725-10809,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,"Departamento en renta en City View, El Campanario","$18,000",2,"2Baños",132 m²
-1620505761-10888,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,RENTA DE DEPARTAMENTO AMUEBLADO Y EQUIPADO EN CITY VIEW QUERETARO,"$25,000",2,"2Baños",109 m²
-1620505836-11075,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,DEPARTAMENTO EN RENTA EN MILENIO III QRO CON GRAN VISTA A LA CAÑADA,"$18,320",2,"2Baños",113 m²
-1620505928-11294,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Altos de Juriquilla departamento de 2 recamaras y 109 mts2! JGJ,"$14,500",2,"2Baños",109 m²
-1620505725-10812,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Departamento sin amueblar El Campanario de 120 mts2! RCS,"$29,000",2,"2Baños",120 m²
-1620505853-11124,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,Loft con maravillosa vista,"$10,400",1,"1Baño",78 m²
-1620505960-11394,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,TI/D DEPARTAMENTO DE LUJO EN RENTA JURIQUILLA QUERETARO,"$23,000",2,"2Baños",163 m²
-1620505942-11352,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,DEPARTAMENTO en RENTA AMUEBLADO JURIQUILLA  CON TERRAZA  MODERNO,"$16,900",2,"2Baños",136 m²
-1620505928-11299,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Pent house en renta amueblado GGV#21-537,"$23,500",3,"3Baños",184 m²
-1620505997-11509,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,RENTA DEPARTAMENTOS AMUEBLADOS QUERETARO JURIQUILLA ATELIER  AA,"$28,000",3,"3Baños",120 m²
-1620505969-11432,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,Departamento en Fray Junipero Serra con vista hacia jardín central! GOC,"$7,000",2,"2Baños",73 m²
-1620505853-11114,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,HERMOSO DEPARTAMENTO EN MILENIO III,"$11,000",3,"2Baños",120 m²
-1620505796-10982,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Depa en renta en Residencial del parque,"$12,500",2,"2Baños",85 m²
-1620505761-10895,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,Departamento sin amoblar en renta de 120 mts2 en El Campanario! RAHQRO,"$29,000",2,"3Baños",120 m²
-1620505942-11348,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,"Departamento en Renta, en Juriquilla, Querétaro","$16,000",3,"2Baños",102 m²
-1620505761-10873,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,"Departamento en Renta, El Cmpanario, Querétaro.","$18,000",2,"2Baños",75 m²
-1620505988-11470,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento en Renta Juriquilla Towers  SANTA FE QUERETARO 2 habitaciones excelentes...,"$16,500",2,"2Baños",90 m²
-1620505660-10675,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,"Departamento en renta en Centro Sur, Qro.","$14,000",2,"2Baños",90 m²
-1620505891-11195,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,SE RENTA DEPA TIPO LOFT AMUEBLADO EN EL REFUGIO QUERÉTARO,"$14,000",1,"1Baño",64 m²
-1620505817-11034,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,RENTA DEPARETAMENTOS QUERETARO CAMINO A ELCAMPANARIO CITY VIEW,"$20,000",2,"2Baños",109 m²
-1620505817-11025,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,Departamento en Milenio 3a. Sección,"$16,500",2,"2Baños",112 m²
-1620505613-10552,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Departamento en Central Park,"$35,000",3,"3Baños",211 m²
-1620506008-11546,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,DEPARTAMENTO AMUEBLADO EN RENTA EN ALEGRA TOWERS JURIQUILLA,"$26,000",2,"2Baños",132 m²
-1620506014-11588,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,Departamento - Juriquilla,"$20,000",2,"2Baños",92 m²
-1620506014-11577,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,Departamento Pent House amueblado en Juriquilla,"$26,000",3,"2Baños",149 m²
-1620506023-11608,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,DEPARTAMENTO EN RENTA CUMBRES DE JURIQUILLA QUERETARO CON EXCELENTE VISTA,"$18,000",3,"2Baños",134 m²
-1620505997-11518,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento Fray Junipero sin amueblar de 130 mts2! RAHQRO,"$22,000",2,"3Baños",130 m²
-1620505997-11507,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,RENTA DEPARTAMENTOS - VALLE DE JURIQUILLA - QUERETARO,"$17,500",3,"2Baños",105 m²
-1620505891-11212,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,"Departamento amoblado en El Refugio de 3 dormitorios, 122 mts2 y seguridad!","$17,300",3,"3Baños",122 m²
-1620505817-11017,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,DEPARTAMENTO AMUEBLADO EN MILENIO III,"$15,000",3,"2Baños",167 m²
-1620506008-11554,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,DEPARTAMENTO EN RENTA EN JURIQUILLA AMUEBLADO,"$26,000",2,"2Baños",114 m²
-1620505836-11068,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,"Departamento en Renta, en Milenio 3a. Sección, Querétaro","$17,500",3,"3Baños",178 m²
-1620505780-10954,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,PH amueblado en renta GGV#21-3359,"$20,000",1,"2Baños",75 m²
-1620505780-10946,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,"RENTA DE DEPARTAMENTO EN LATITUD LA VICTORIA, 1 RECÁMARA, 1 ESTACIONAMIENTO","$19,000",1,"1Baño",84 m²
-1620505761-10874,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,Departamento amueblado en renta Adamant,"$18,000",2,"2Baños",74 m²
-1620505346-10474,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Penthouse con Roofgarden y vista al Lago. Magnolia Luxury Condos.,"$60,000",3,"3Baños",183 m²
-1620505780-10949,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Departamento en Lujoso condominio de 55 mts2 y 1 dormitorio! RAHQRO,"$12,500",1,"1Baño",55 m²
-1620505979-11446,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,Departamento - Juriquilla,"$23,000",2,"2Baños",118 m²
-1620505613-10554,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,DEPARTAMENTO AMUEBLADO EN RENTA EN CENTRAL PARK,"$22,501",2,"2Baños",160 m²
-1620505988-11475,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento a estrenar sin amueblar en Fray Junipero Serra! GOC 20-2345,"$22,000",2,"3Baños",130 m²
-1620506023-11592,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,"¡¡ Departamento en RENTA, en zona residencial de Juriquilla !!!","$14,000",2,"2Baños",99 m²
-1620505660-10677,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,EXCELENTE DEPARTAMENTO PARA EJECUTIVOS EN RENTA UBICADO EN CENTRAL PARK,"$23,000",2,"2Baños",168 m²
-1620505725-10796,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Departamento en Renta. El Campanario. FVR,"$20,500",1,"1Baño",40 m²
-1620505704-10751,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,Departamento cómodo en El Pueblito con mantenimiento incluido! JGJ,"$7,000",2,"2Baños",80 m²
-1620505636-10611,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,"Departamento en renta totalmente amueblado, Centro Sur, Qro. OFP 19-217","$23,000",2,"2Baños",157 m²
-1620506030-11628,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"Departamento en Renta, en Juriquilla, Querétaro","$20,000",2,"3Baños",160 m²
-1620505704-10740,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,Departamento en el pueblito de 2 dormitorios y 114 mts2! Goc,"$13,000",2,"3Baños",114 m²
-1620505928-11297,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento en Renta Club la Loma el salitre Queretaro 1 habitacion y estudio,"$17,900",1,"2Baños",88 m²
-1620505681-10688,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,"DEPARTAMENTO EN RENTA EN JURICA, EDIFICIO AIRA, ARCO DE PIEDRA","$15,000",2,"2Baños",109 m²
-1620505613-10541,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Departamento en renta Centro Sur 2 habitaciones AVH,"$14,000",2,"2Baños",87 m²
-1620505796-10980,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en renta por El Mirador OFP 21 4035,"$15,500",2,"2Baños",122 m²
-1620505681-10690,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,"Departamento en renta amueblado en Querétaro. Coldesa Palmas $16,000 ID: 1069","$16,000",2,"2Baños",150 m²
-1620505741-10824,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,Departamento exclusivo en El Campanario de 40 mts2! RAHQRO,"$17,500",1,"1Baño",40 m²
-1620505780-10956,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Exclusivo departamento en Renta,"$13,000",1,"1Baño",55 m²
-1620505997-11527,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento en renta en Juriquilla Towers,"$28,892",2,"3Baños",130 m²
-1620505796-10973,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,"Loft en Renta, en El Mirador, El Marqués","$7,900",1,"1Baño",40 m²
-1620505969-11422,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,Departamento  EN RENTA Semiamueblado en Santa Fe Juriquilla Queretaro,"$15,000",2,"2Baños",140 m²
-1620506014-11568,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,*EX-1183* Departamento en Juriquilla con 2 dormitorios y amueblado! JGJ,"$22,000",2,"2Baños",91 m²
-1620505613-10562,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,RENTA DEPARTAMENTO ALIA CENTRO SUR ALBERCA SEGURIDAD UBICACIÓN,"$17,000",2,"2Baños",107 m²
-1620505681-10708,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,Departamento en Renta Club la Loma el salitre Queretaro 1 habitacion y estudio,"$17,900",1,"2Baños",88 m²
-1620505681-10689,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,Renta departamento de lujo muy amplio y Amueblado en Jurica Edificio Regency Qro,"$37,000",3,"3Baños",283 m²
-1620505817-11031,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,RENTO LOFT QUERETARO COL.CALESA CENTRICO B.QUINTANA/AV. UNIV/ LOS ARCOS,"$4,500",1,"1Baño",25 m²
-1620505997-11510,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento en Renta RID10434,"$17,500",2,"2Baños",170 m²
-1620505704-10746,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,Renta de departamento en segundo nivel,"$10,000",3,"2Baños",125 m²
-1620505997-11500,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Apartment - Juriquilla,"$26,000",3,"2Baños",127 m²
-1620506030-11623,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"Renta Departamento, 3 recamaras amenidades, Biosfera Towers Juriquilla Queretaro","$15,500",3,"2Baños",120 m²
-1620505796-10969,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en renta zona de El Mirador OFP 20 2410,"$14,000",2,"2Baños",122 m²
-1620506014-11589,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,HERMOSO DEPARTAMENTO AMUEBLADO EN RENTA UBICADO EN LIFE JURIQUILLA !!,"$27,000",2,"2Baños",165 m²
-1620505681-10687,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,Departamento en Renta JURICA Queretaro 3 habitaciones Privada Arco de Piedra,"$18,000",3,"2Baños",92 m²
-1620505872-11167,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,HERMOSO DEPARTAMENTO AMUEBLADO EN RENTA EN RESIDENCIAL EL REFUGIO !!,"$19,000",2,"2Baños",100 m²
-1620505780-10947,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Departamento en Villas del Sol Queretaro,"$16,500",2,"2Baños",90 m²
-1620505907-11246,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,Amplio departamento en renta con terraza en El Refugio OFP 20 1648,"$14,000",1,"2Baños",207 m²
-1620505960-11392,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,"Se Renta Depa Amueblado en Santa Fe de Juriquilla 2 Recamaras, Posee Alberca YCC","$15,000",1,"2Baños",98 m²
-1620505780-10955,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Departamento exclusivo en Villa del Sol de 55 mts2 y amenidades! GOC,"$12,500",1,"1Baño",55 m²
-1620505891-11199,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,Departamento en Renta de 3 recamaras a solo 15min del Centro de Queretaro.,"$7,000",3,"2Baños",111 m²
-1620505636-10601,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,DEPARTAMENTO AMUEBLADO CON ACABADOS DE LUJO CON INCREIBLE VISTA A LA CIUDAD,"$19,999",2,"2Baños",97 m²
-1620505660-10660,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,Ideal Para Familias Jóvenes O Ejecutivos Sin Amoblar!,"$14,000",2,"2Baños",87 m²
-1620505960-11380,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Departamento amueblado en renta en juriquilla con servicios incluidos.,"$15,000",1,"1Baño",68 m²
-1620505660-10662,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,"DEPA EN RENTA EN CENTRAL PARK, CON VISTA A LA CIUDAD Y AMPLIA TERRAZA.","$23,000",3,"2Baños",213 m²
-1620505796-10963,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,"Departamento AMUEBLADO en renta, El Mirador OFP 19-2301","$9,000",1,"1Baño",65 m²
-1620505872-11157,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,Renta de Departamento en El Refugio 21-2313,"$6,000",2,"1Baño",52 m²
-1620505761-10880,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,RENTA DEPARTAMENTO CERCA DEL CAMPANARIO DE LUJO ALBERCA 2 RECAMARAS,"$14,900",2,"2Baños",76 m²
-1620506014-11590,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,Departamento - Juriquilla,"$16,000",4,"2Baños",123 m²
-1620505817-11027,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,Renta departamento Milenio Querétaro,"$30,000",2,"2Baños",134 m²
-1620505979-11448,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,RENTA DEPARTAMENTO EN WISELIVING JURIQUILLA,"$25,000",2,"2Baños",167 m²
-1620505346-10461,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Departamento en renta amueblado con amenidades y vista panorámica a lago y campo de g...,"$20,000",2,"2Baños",122 m²
-1620505681-10686,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,Departamento en Renta JURICA Queretaro 2 habitaciones Privada Arco de Piedra,"$14,000",2,"2Baños",92 m²
-1620505891-11186,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,RENTA DEPARTAMENTO DE 1 RECAMARÁ EN QUERÉTARO.,"$10,000",1,"1Baño",58 m²
-1620505960-11393,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Se Renta Depa Tipo Duplex en Altos de Juriquilla 2 Recamaras Cada Una con Baño,"$14,000",2,"3Baños",152 m²
-1620505872-11178,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,Querétaro  El Refugio increíble departamento en renta,"$15,900",3,"3Baños",157 m²
-1620505725-10814,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Departamento exclusivo en El Campanario de 40 mts2! RAHQRO,"$17,500",1,"1Baño",40 m²
-1620506023-11605,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,Bonito Departamento en Renta en Juriquilla Aqc,"$16,500",3,"2Baños",126 m²
-1620506008-11538,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,"Departamento Amueblado en Renta en Privalia Ambienta, Querétaro.","$12,000",3,"2Baños",82 m²
-1620505988-11469,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento en Renta - Atelier Juriquilla,"$14,000",3,"2Baños",98 m²
-1620505725-10795,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Departamento en El Campanario de 40 mts2 y 1 dormitorio! en renta RAHQRO 20-245,"$20,500",1,"1Baño",40 m²
-1620505928-11317,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento en Renta en Queretaro Real de Juriquilla,"$10,500",2,"2Baños",70 m²
-1620505988-11472,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento en Renta en Juriquilla,"$18,500",3,"2Baños",130 m²
-1620506008-11560,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,Departamento en PB sin amueblar con 2 dormitorios y 72 mts2! RAHQRO,"$7,400",2,"2Baños",72 m²
-1620505928-11303,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento en renta,"$18,500",2,"2Baños",100 m²
-1620505817-11040,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,Renta Departamento Amueblado en City View QUERETARO,"$30,000",3,"2Baños",133 m²
-1620505796-10959,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,DEPARTAMENTO AMUEBLADO EN RENTA EL MIRADOR QUERETARO,"$12,600",1,"1Baño",76 m²
-1620505681-10685,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,Renta de Hermoso departamento amueblado  en Jurica,"$11,500",1,"1Baño",65 m²
-1620505872-11171,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,Departamento en Renta en Balcones Coloniales,"$15,000",2,"3Baños",92 m²
-1620505780-10935,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Departamento Centro Sur Querétaro,"$13,500",2,"2Baños",84 m²
-1620505960-11387,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,renta Departamento amueblado en Nautico Juriquilla con vista al lago,"$22,000",2,"2Baños",100 m²
-1620505660-10667,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,Departamento en renta Central Park,"$15,500",2,"2Baños",256 m²
-1620505613-10542,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Departamento - Centro Sur,"$21,000",2,"2Baños",120 m²
-1620505704-10749,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,El Pueblito amplio departamento de 3 recamaras! JGJ 20-3744,"$15,000",3,"4Baños",170 m²
-1620505725-10808,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,RENTA DEPARTAMENTO SIERRAZUL QUERÉTARO,"$23,000",3,"3Baños",140 m²
-1620506023-11621,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,"Departamento en Renta con areas de amenidades $11,000","$11,000",2,"2Baños",106 m²
-1620505346-10476,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Renta de Loft / Departamento en Juriquilla,"$13,000",1,"1Baño",50 m²
-1620505979-11459,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,Renta de lujos departamento  amueblado en Sta. Fe Juriquilla JF,"$18,500",1,"2Baños",98 m²
-1620505681-10683,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,DEPARTAMENTO EN RENTA  AMUEBLADO 3 RECAMARAS ZONA JURIQUILLA QUERETARO,"$23,000",3,"2Baños",140 m²
-1620505704-10738,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,Departamento amoblado en el pueblito de 2 dormitorios y 114 mts2! Rahqro,"$13,000",2,"3Baños",114 m²
-1620505741-10843,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,SIERRA AZUL RENTA ... VISTAS FABULOSAS DE LA CIUDAD...,"$23,000",2,"2Baños",120 m²
-1620505761-10884,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,Departamento en renta en El Campanario de 2 dormitorios y 2 baños completos! RAH,"$25,000",2,"2Baños",76 m²
-1620505997-11515,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento en Renta en Juriquilla las Cruces,"$22,000",2,"3Baños",107 m²
-1620506023-11614,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,Departamento Amueblado en Juriquilla,"$15,000",1,"2Baños",98 m²
-1620505660-10651,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,Departamento Centro Sur Querétaro,"$13,500",2,"2Baños",84 m²
-1620506008-11558,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,RENTO DEPA EN JURIQUILLA QUERÉTARO,"$20,000",2,"2Baños",99 m²
-1620506008-11557,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,"DEPARTAMENTO EN RENTA EN REAL DE JURIQUILLA, AMUEBLADO","$14,000",2,"2Baños",135 m²
-1620505741-10821,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,"Departamento en El Campanario, Querétaro","$16,000",1,"1Baño",73 m²
-1620505660-10669,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,¡¡ HERMOSO DEPARTAMENTO DE 160M2 EN RENTA UBICADO EN CENTRO SUR !!,"$19,500",2,"2Baños",160 m²
-1620505796-10971,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en renta en Zona de El Mirador OFP 20 2410,"$14,000",2,"2Baños",122 m²
-1620506023-11597,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,Fray Junipero Departamento a estrenar de 2 recamaras! RAHQRO,"$17,000",2,"3Baños",130 m²
-1620505960-11399,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Departamento en Renta  Queretaro Juriquilla Joy,"$25,000",3,"4Baños",163 m²
-1620505796-10979,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento amoblado en Renta por zona de El mirador OFP 21 4035,"$15,500",2,"2Baños",122 m²
-1620505942-11343,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,Departamento - Juriquilla,"$16,000",2,"2Baños",87 m²
-1620505346-10486,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Departamento amueblado renta 3 recamaras cumbres del lago juriquilla Queretaro,"$21,000",3,"2Baños",130 m²
-1620506030-11633,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"Departamento en Renta, en Juriquilla, Querétaro","$32,000",2,"3Baños",130 m²
-1620505942-11342,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,DEPARTAMENTO AMUEBLADO EN BIOSFERA QUERETARO,"$19,500",3,"2Baños",176 m²
-1620505907-11257,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,Departamento amoblado en El Refugio de 122 mts2 y 3 dormitorios! RAHQRO,"$17,300",3,"3Baños",122 m²
-1620505741-10825,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,"Departamento en El Campanario, Querétaro","$23,000",3,"3Baños",140 m²
-1620505928-11308,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Penthouse con Roofgarden y vista al Lago. Magnolia Luxury Condos.,"$60,000",3,"3Baños",183 m²
-1620505928-11318,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,"Se Renta Precioso Departamento en Santa Fe Juriquilla, 2 Recamaras, 2 Baños Lujo","$21,000",2,"2Baños",132 m²
-1620505836-11088,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,Estrena departamento en milenio,"$13,800",2,"2Baños",120 m²
-1620505613-10566,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,"Departamento de lujo totalmente amueblado, Centro Sur OFP EX966","$25,000",3,"3Baños",110 m²
-1620505725-10803,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,RENTA DEPARTAMENTOS - CAMPANARIO ELITE - QUERETARO,"$23,600",2,"2Baños",128 m²
-1620505681-10682,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,DEPARTAMENTO HABITACIONAL,"$17,000",2,"2Baños",132 m²
-1620506014-11575,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,"DEPARTAMENTO EN RENTA EN WISE LIVING JURIQUILLA, EXCELENTE UBICACIÓN","$21,000",2,"2Baños",160 m²
-1620505997-11513,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,RENTA departamento en Fray Junipero sin amueblar de 2 recamaras!,"$17,000",2,"3Baños",130 m²
-1620505960-11400,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Departamento - Juriquilla,"$18,000",2,"2Baños",83 m²
-1620505346-10482,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,"Rent Depa Amueblado y Servicios, vista y seguridad Cum. Del Lago Juriquilla JF","$27,500",3,"3Baños",232 m²
-1620505817-11037,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,"DEPARTAMENTO EN RENTA, CITY VIEW, CAMPANARIO, AMUEBLADO","$24,000",2,"2Baños",110 m²
-1620505613-10549,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Renta departamento amueblado en koloria centro sur queretaro 2 recamaras,"$18,000",2,"2Baños",80 m²
-1620505796-10967,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,"Loft en Renta, en El Mirador, El Marqués","$7,000",1,"1Baño",35 m²
-1620505891-11191,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,DEPARTAMENTO EN RENTA PRIVALIA AMBIENTA AMUEBLADO CON SERVICIOS INCLUIDOS,"$12,000",3,"2Baños",97 m²
-1620505660-10658,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,Departamento en Centro Sur de 2 dormitorios y 87 mts2! RAHQRO,"$14,000",2,"2Baños",87 m²
-1620505891-11187,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,DEPA AMUEBLADO EN NATUUR REFUGIO,"$21,000",3,"2Baños",129 m²
-1620505725-10816,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,"RENTA DE EXCLUSIVO DEPARTAMENTO AMUEBLADO EN EDIFICIO ADAMANT, QUERÉTARO","$18,000",2,"2Baños",74 m²
-1620505346-10477,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,"Se renta departamento en Cumbres del Lago, Juriquilla","$18,000",2,"3Baños",135 m²
-1620505780-10945,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,RENTA DEPARTAMENTO EN LATITUD EL CORAZÓN DE LA CIUDAD  A 3 MIN DEL CENTRO,"$12,000",1,"1Baño",66 m²
-1620506014-11587,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,DEPARTAMENTO EN RENTA EN JURIQUILLA DESARROLLO HANDIKO,"$21,500",2,"2Baños",160 m²
-1620506014-11570,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,BONITO DEPARTAMENTO EN DESARROLLO EXCLUSIVO AUTOSUSTENTABLE JOY JURIQUILLA,"$28,000",2,"2Baños",142 m²
-1620505741-10819,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,Departamento en Renta en El Campanario de 2 dormitorios y 2 baños! RAHQRO,"$25,000",2,"2Baños",76 m²
-1620505796-10976,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Hermoso departamento completamente amueblado y equipado en El Mirador JF,"$15,500",2,"2Baños",122 m²
-1620505969-11412,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,Departamento - Juriquilla,"$15,400",2,"2Baños",97 m²
-1620505704-10758,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,"DEPARTAMENTO EN RENTA EN COLINAS DEL CIMATARIO. (Tipo Dúplex, Con Entrada Independien...","$9,000",2,"1Baño",208 m²
-1620505761-10897,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,Departamento exclusivo semiamueblado en El Campanario de 120 mts2! RAHQRO,"$29,000",2,"3Baños",120 m²
-1620505928-11302,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento en renta,"$16,500",2,"2Baños",105 m²
-1620505613-10548,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Departamento en renta Centro Sur 3 habitaciones AVH,"$25,000",3,"3Baños",110 m²
-1620505796-10970,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en renta por la zona de El Mirador OFP 20 1961,"$15,000",2,"2Baños",85 m²
-1620505636-10608,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,Departamento en Renta Querétaro 1 Rec y Estudio Centro Sur Central park T 200,"$14,000",2,"2Baños",111 m²
-1620506030-11649,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"Departamento NUEVO en Renta, 2 Recamaras con Baño cada una, Juriquilla $18,500 QUERET...","$18,500",2,"2Baños",160 m²
-1620505761-10886,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,Departamento en renta en el Campanario ELITE,"$23,600",2,"2Baños",123 m²
-1620505613-10545,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,RENTA DE DEPARTAMENTO EN CENTRO SUR,"$20,000",2,"1Baño",93 m²
-1620505891-11203,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,Espacioso departamento sin amoblar en el refugio de 3 dormitorios! Rahqro,"$18,600",3,"4Baños",242 m²
-1620505681-10693,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,"Hermoso departamento en Jurica, Querétaro","$19,900",3,"3Baños",180 m²
-1620505725-10813,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,"CAMPANARIO SIERRA AZUL, LOFT AMUEBLADO EN RENTA","$18,500",1,"1Baño",67 m²
-1620505979-11456,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,Renta de Departamento Amueblado Juriquilla  Towers Santa Fe Querétaro,"$25,000",2,"2Baños",110 m²
-1620505681-10707,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,RENTA DEPARTAMENTOS PALMARES JURICA,"$11,400",2,"2Baños",125 m²
-1620506023-11615,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,Departamento en Renta JURIQUILLA CANTALAGUA QUERETARO 2 Habitaciones en Privada,"$15,000",2,"2Baños",136 m²
-1620505997-11519,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento - Juriquilla,"$20,000",3,"2Baños",119 m²
-1620505613-10550,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,"DEPARTAMENTO EN RENTA AMUEBLADO  EN KOLORIA ,2 REC., 2 BAÑOS.","$18,000",2,"2Baños",94 m²
-1620505836-11067,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,Departamento para RENTA a estrenar en Milenio III,"$14,000",3,"2Baños",125 m²
-1620505907-11259,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,DEPA EN NATUUR REFUGIO,"$16,000",3,"2Baños",129 m²
-1620505817-11020,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,RENTA DE DEPARTAMENTO AMUEBLADO Y EQUIPADO EN MELINIO III,"$16,300",3,"2Baños",112 m²
-1620505979-11440,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,BIOSFERA TOWERS Amueblado torre A dos recamaras,"$20,000",2,"2Baños",100 m²
-1620505817-11019,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,DEPARTAMENTO EN RENTA EN LA CIMA MILENIO III,"$12,500",2,"2Baños",153 m²
+1620505853-11116,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,Excelente Ph en Renta,"$17,500",2,"2
+                                    
+                                
+                                Baños",163 m²
+1620505928-11315,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,"Departamentos de lujo en AMBAR TOWER dentro de Cumbres del Lago, Juriquilla!","$22,000",4,"3
+                                    
+                                
+                                Baños",171 m²
+1620505988-11484,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento - Juriquilla,"$18,500",2,"2
+                                    
+                                
+                                Baños",160 m²
+1620506014-11573,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,Renta Departamento Amueblado En Juriquilla Santa Fe  1 Dormitorio,"$22,500",1,"2
+                                    
+                                
+                                Baños",98 m²
+1620505988-11495,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Fray Junipero departamento en renta de 2 recamaras!,"$17,000",2,"3
+                                    
+                                
+                                Baños",130 m²
+1620505741-10834,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,Adamant Piso 10,"$14,500",2,"2
+                                    
+                                
+                                Baños",73 m²
+1620506030-11638,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"Departamento en renta en Juriquilla, Querétaro","$15,000",2,"2
+                                    
+                                
+                                Baños",91 m²
+1620506008-11544,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,"BIOSFERA JURIQUILLA ,DEPARTAMETO DE 2 HABITACIONES .","$15,000",2,"2
+                                    
+                                
+                                Baños",95 m²
+1620505796-10958,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,"Departamento en renta mirador, planta alta","$8,000",3,"2
+                                    
+                                
+                                Baños",90 m²
+1620505942-11334,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,"Departamento en Renta amueblado, en Biosfera Juriquilla con 2 recamaras y Balcón","$18,000",2,"2
+                                    
+                                
+                                Baños",90 m²
+1620505997-11525,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento - Juriquilla,"$25,000",2,"2
+                                    
+                                
+                                Baños",180 m²
+1620506008-11536,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,"DEPARTAMENTO en RENTA, PLANTA BAJA, ESTUPENDA UBICACION y ESPACIOS","$16,500",3,"2
+                                    
+                                
+                                Baños",173 m²
+1620505853-11117,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,Renta Departamento Milenio lll,"$25,000",2,"2
+                                    
+                                
+                                Baños",120 m²
+1620505997-11523,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,DEPARTAMENTO EN RENTA AMUEBLADO EN LIFE  JURIQUILLA,"$23,500",3,"2
+                                    
+                                
+                                Baños",130 m²
+1620505725-10798,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Departamento en Renta en Lomas del Marqués 1 Rec 1 Baño,"$12,900",1,"1
+                                    
+                                
+                                Baño",70 m²
+1620505942-11328,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,"Departamento Amueblado y Equipado en Juriquilla, Renta","$15,500",2,"2
+                                    
+                                
+                                Baños",110 m²
+1620505817-11024,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,IRR Departamento Amueblado en Renta en Milenio III,"$16,000",3,"2
+                                    
+                                
+                                Baños",133 m²
+1620505942-11339,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,"DEPARTAMENTO EN RENTA EN REAL DE JURIQUILLA, AMUEBLADO","$17,500",3,"2
+                                    
+                                
+                                Baños",120 m²
+1620505997-11526,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Oportunidad departamento en renta Juriquilla Querétaro,"$11,500",3,"2
+                                    
+                                
+                                Baños",97 m²
+1620505988-11486,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Lindo Departamenteo en Renta en Juriquilla Aqc,"$22,500",2,"2
+                                    
+                                
+                                Baños",94 m²
+1620505741-10835,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,Departamento sin amueblar en El Campanario de 76 mts2! RCS,"$25,000",2,"2
+                                    
+                                
+                                Baños",76 m²
+1620505725-10810,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,DEPARTAMENTO AMUEBLADO EN RENTA EN QUERETARO SIERRA AZUL,"$29,500",3,"3
+                                    
+                                
+                                Baños",160 m²
+1620506023-11620,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,"Planta baja con 2 dormitorios y buena ubicación, departamento sin amueblar! RAH","$7,400",2,"2
+                                    
+                                
+                                Baños",72 m²
+1620505817-11018,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,RENTA DEPARTAMENTOS AMUEBLADOS EN MILENIO III QUERETARO,"$15,000",3,"2
+                                    
+                                
+                                Baños",111 m²
+1620505780-10942,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,"RENTA DEPARTAMENTO CENTRO SUR, CERCA DE LA SALIDA A MEXICO ROOF GARDEN GIMNASIO.","$16,000",3,"2
+                                    
+                                
+                                Baños",110 m²
+1620505660-10670,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,"Departamento en renta, Distrito Piamonte","$22,000",2,"2
+                                    
+                                
+                                Baños",87 m²
+1620506023-11618,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,Departamento - Juriquilla,"$11,000",2,"2
+                                    
+                                
+                                Baños",90 m²
+1620505853-11099,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,"Departamento en renta  en Milenio III, Qro.","$17,500",3,"3
+                                    
+                                
+                                Baños",170 m²
+1620505960-11385,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,"DEPARTAMENTO EN RENTA EN LIFE JURIQUILLA, DOS RECÁMARAS","$15,000",2,"2
+                                    
+                                
+                                Baños",119 m²
+1620505928-11295,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,DEPARTAMENTO AMUEBLADO EN RENTA SOBRE BLVD DE LA CAMPANA EN JURIQUILLA QUERETARO,"$18,500",2,"2
+                                    
+                                
+                                Baños",100 m²
+1620505907-11249,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,HERMOSO DEPARTAMENTO NUEVO EN RENTA AMUEBLADO UBICADO EN ALTERA TOWERS !!,"$17,500",3,"2
+                                    
+                                
+                                Baños",128 m²
+1620505872-11170,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,Renta departamento Refugio,"$12,500",2,"2
+                                    
+                                
+                                Baños",92 m²
+1620505761-10896,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,"CAMPANARIO SIERRA AZUL, LOFT AMUEBLADO EN RENTA","$18,500",1,"1
+                                    
+                                
+                                Baño",67 m²
+1620505891-11194,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,"RENTO DEPARTAMENTO QUERETARO FRACC,PRIVALIA AMBIENTA IDEAL ROMMIES UBICADISIMO","$7,000",2,"2
+                                    
+                                
+                                Baños",73 m²
+1620506014-11586,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,"RENTA de Departamento amueblado de lujo en Juriquilla Towers, Queretaro","$32,000",3,"3
+                                    
+                                
+                                Baños",174 m²
+1620505613-10553,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,DEPARTAMENTO EN RENTA EN TORRE 300 CENTRAL PARK QUERÉTARO,"$17,000",2,"2
+                                    
+                                
+                                Baños",102 m²
+1620505891-11190,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,RENTA DEPARTAMENTOS AMUEBLADOS - NATURR- EL REFUGIO - QUERETARO,"$20,000",2,"2
+                                    
+                                
+                                Baños",90 m²
+1620505988-11473,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Fray Junipero Serra departamento a estrenar de 2 recamaras!,"$17,000",2,"3
+                                    
+                                
+                                Baños",130 m²
+1620505969-11435,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,Departamento en renta NUEVO en Biogrand JURIQUILLA,"$10,500",2,"2
+                                    
+                                
+                                Baños",85 m²
+1620505741-10845,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,Renta depa completamente amueblado en condominio de lujo en El Campanario JF,"$20,500",1,"1
+                                    
+                                
+                                Baño",40 m²
+1620505613-10556,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,DEPARTAMENTO EN RENTA EN CENTRAL PARK,"$38,000",3,"4
+                                    
+                                
+                                Baños",270 m²
+1620505960-11402,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,"Hermoso departamento amueblado en Querétaro, Juriquilla","$21,000",2,"2
+                                    
+                                
+                                Baños",186 m²
+1620505346-10464,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,DEPARTAMENTO EN RENTA CON ALBERCA EN CUMBRES DEL LAGO JURIQUILLA,"$19,500",3,"2
+                                    
+                                
+                                Baños",125 m²
+1620505960-11389,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Departamento Amueblado en Renta  Juriquilla - Cercano a Fresko y UVM,"$11,500",3,"1
+                                    
+                                
+                                Baño",114 m²
+1620505928-11304,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,RENTA DE DEPARTAMENTO 2 HABITACIONES VISTA DIAMANTE,"$22,000",2,"4
+                                    
+                                
+                                Baños",196 m²
+1620506008-11539,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,Departamento amueblado cerca de UVM en renta Queretaro,"$14,000",2,"2
+                                    
+                                
+                                Baños",160 m²
+1620505761-10892,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,PRECIOSO DEPARTAMENTO DE LUJO PARA EJECUTIVOS AMUEBLADO,"$16,000",1,"1
+                                    
+                                
+                                Baño",85 m²
+1620506030-11646,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,JURIQUILLA RENTA DEPARTAMENTO 3 RECAMARAS COCINA EQUIPADA ALBERCA GYM,"$20,500",3,"2
+                                    
+                                
+                                Baños",126 m²
+1620505988-11496,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento sin amoblar en Fray Junipero Serra de 2 dormitorios! RAHQRO,"$22,000",2,"3
+                                    
+                                
+                                Baños",130 m²
+1620505741-10841,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,EL CAMPANARIO DEPA EN RENTA 2 RECAMARAS EDF CON ALBERCA LUDOTECA GYM,"$25,000",2,"2
+                                    
+                                
+                                Baños",76 m²
+1620506030-11643,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,Departamento en renta amueblado con servicios en Juriquilla,"$11,500",1,"1
+                                    
+                                
+                                Baño",60 m²
+1620505836-11069,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,"DEPARTAMENTO EN RENTA EN MONTEBELLO TOWERS, MILENIO III","$25,000",2,"2
+                                    
+                                
+                                Baños",134 m²
+1620505660-10661,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,RENTA DEPARTAMENTO AMUEBLADO CENTRAL PARK,"$23,000",2,"2
+                                    
+                                
+                                Baños",157 m²
+1620505741-10839,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,"RENTA DE EXCLUSIVO DEPARTAMENTO AMUEBLADO EN EDIFICIO ADAMANT, QUERÉTARO","$18,000",2,"2
+                                    
+                                
+                                Baños",74 m²
+1620505346-10488,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,"Dúplex Lujoso con Amenidades, Sin Amoblar ubicado en cumbres del lago RAHQRO","$17,000",2,"2
+                                    
+                                
+                                Baños",105 m²
+1620506014-11561,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,Renta de Amplio Departamento Amueblado en Juriquilla,"$15,500",2,"2
+                                    
+                                
+                                Baños",110 m²
+1620505346-10485,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Departamento amueblado en renta en juriquilla con servicios incluidos.,"$15,000",1,"1
+                                    
+                                
+                                Baño",68 m²
+1620505613-10555,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,"RENTA DE DEPARTAMENTO EN CENTRAL PARK, 3 ESTACIONAMIENTOS, 2 BAÑOS, 2 RECÁMARAS","$29,000",2,"2
+                                    
+                                
+                                Baños",163 m²
+1620505988-11492,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,"¡¡¡ Departamento en Renta, en zona residencial de Juriquilla !!!","$17,000",3,"3
+                                    
+                                
+                                Baños",132 m²
+1620505704-10763,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,Amplio y cómodo departamento de 3 recamaras en segundo nivel Fracc. Puerta Real,"$9,300",3,"2
+                                    
+                                
+                                Baños",125 m²
+1620505725-10815,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,DEPARTAMENTO AMUEBLADO Y EQUIPADO ADAMANT INCREIBLE VISTA,"$18,000",1,"1
+                                    
+                                
+                                Baño",57 m²
+1620505960-11396,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,"Departamento en Renta Semi amueblado en Juriquilla, dos recámaras","$13,900",2,"1
+                                    
+                                
+                                Baño",69 m²
+1620505960-11397,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Lujoso Depa en Renta. Juriquilla. FVR,"$30,000",3,"4
+                                    
+                                
+                                Baños",172 m²
+1620505969-11418,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,"RENTA DEPARTAMENTO 2 REC. $15,500.00","$15,500",2,"2
+                                    
+                                
+                                Baños",110 m²
+1620506030-11637,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"RENTA de Departamento en Juriquilla, Queretaro, Edificio Tres Vistas Juriquilla","$13,500",3,"2
+                                    
+                                
+                                Baños",135 m²
+1620505891-11184,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,"Departamento en Renta, Querétaro, Querétaro","$13,900",2,"2
+                                    
+                                
+                                Baños",120 m²
+1620506030-11631,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,Departamento amueblado en renta 2 recámaras,"$22,000",2,"2
+                                    
+                                
+                                Baños",126 m²
+1620505928-11298,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento Duplex en Renta 2 Recamaras Excelentes Amenidades Ycc,"$14,000",2,"3
+                                    
+                                
+                                Baños",156 m²
+1620505979-11452,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,Departamento en Renta en BIOSFERA TOWERS JURIQUILLA,"$27,000",3,"3
+                                    
+                                
+                                Baños",175 m²
+1620505836-11095,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,P H  AMUEBLADO EN RENTA MILENIO III,"$18,000",3,"2
+                                    
+                                
+                                Baños",136 m²
+1620505988-11485,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,EXCLUSIVO DEPARTAMENTO EN RENTA,"$18,000",3,"3
+                                    
+                                
+                                Baños",166 m²
+1620505725-10809,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,"Departamento en renta en City View, El Campanario","$18,000",2,"2
+                                    
+                                
+                                Baños",132 m²
+1620505761-10888,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,RENTA DE DEPARTAMENTO AMUEBLADO Y EQUIPADO EN CITY VIEW QUERETARO,"$25,000",2,"2
+                                    
+                                
+                                Baños",109 m²
+1620505836-11075,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,DEPARTAMENTO EN RENTA EN MILENIO III QRO CON GRAN VISTA A LA CAÑADA,"$18,320",2,"2
+                                    
+                                
+                                Baños",113 m²
+1620505928-11294,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Altos de Juriquilla departamento de 2 recamaras y 109 mts2! JGJ,"$14,500",2,"2
+                                    
+                                
+                                Baños",109 m²
+1620505725-10812,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Departamento sin amueblar El Campanario de 120 mts2! RCS,"$29,000",2,"2
+                                    
+                                
+                                Baños",120 m²
+1620505853-11124,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,Loft con maravillosa vista,"$10,400",1,"1
+                                    
+                                
+                                Baño",78 m²
+1620505960-11394,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,TI/D DEPARTAMENTO DE LUJO EN RENTA JURIQUILLA QUERETARO,"$23,000",2,"2
+                                    
+                                
+                                Baños",163 m²
+1620505942-11352,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,DEPARTAMENTO en RENTA AMUEBLADO JURIQUILLA  CON TERRAZA  MODERNO,"$16,900",2,"2
+                                    
+                                
+                                Baños",136 m²
+1620505928-11299,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Pent house en renta amueblado GGV#21-537,"$23,500",3,"3
+                                    
+                                
+                                Baños",184 m²
+1620505997-11509,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,RENTA DEPARTAMENTOS AMUEBLADOS QUERETARO JURIQUILLA ATELIER  AA,"$28,000",3,"3
+                                    
+                                
+                                Baños",120 m²
+1620505969-11432,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,Departamento en Fray Junipero Serra con vista hacia jardín central! GOC,"$7,000",2,"2
+                                    
+                                
+                                Baños",73 m²
+1620505853-11114,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=1,HERMOSO DEPARTAMENTO EN MILENIO III,"$11,000",3,"2
+                                    
+                                
+                                Baños",120 m²
+1620505796-10982,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Depa en renta en Residencial del parque,"$12,500",2,"2
+                                    
+                                
+                                Baños",85 m²
+1620505761-10895,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,Departamento sin amoblar en renta de 120 mts2 en El Campanario! RAHQRO,"$29,000",2,"3
+                                    
+                                
+                                Baños",120 m²
+1620505942-11348,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,"Departamento en Renta, en Juriquilla, Querétaro","$16,000",3,"2
+                                    
+                                
+                                Baños",102 m²
+1620505761-10873,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,"Departamento en Renta, El Cmpanario, Querétaro.","$18,000",2,"2
+                                    
+                                
+                                Baños",75 m²
+1620505988-11470,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento en Renta Juriquilla Towers  SANTA FE QUERETARO 2 habitaciones excelentes...,"$16,500",2,"2
+                                    
+                                
+                                Baños",90 m²
+1620505660-10675,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,"Departamento en renta en Centro Sur, Qro.","$14,000",2,"2
+                                    
+                                
+                                Baños",90 m²
+1620505891-11195,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,SE RENTA DEPA TIPO LOFT AMUEBLADO EN EL REFUGIO QUERÉTARO,"$14,000",1,"1
+                                    
+                                
+                                Baño",64 m²
+1620505817-11034,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,RENTA DEPARETAMENTOS QUERETARO CAMINO A ELCAMPANARIO CITY VIEW,"$20,000",2,"2
+                                    
+                                
+                                Baños",109 m²
+1620505817-11025,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,Departamento en Milenio 3a. Sección,"$16,500",2,"2
+                                    
+                                
+                                Baños",112 m²
+1620505613-10552,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Departamento en Central Park,"$35,000",3,"3
+                                    
+                                
+                                Baños",211 m²
+1620506008-11546,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,DEPARTAMENTO AMUEBLADO EN RENTA EN ALEGRA TOWERS JURIQUILLA,"$26,000",2,"2
+                                    
+                                
+                                Baños",132 m²
+1620506014-11588,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,Departamento - Juriquilla,"$20,000",2,"2
+                                    
+                                
+                                Baños",92 m²
+1620506014-11577,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,Departamento Pent House amueblado en Juriquilla,"$26,000",3,"2
+                                    
+                                
+                                Baños",149 m²
+1620506023-11608,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,DEPARTAMENTO EN RENTA CUMBRES DE JURIQUILLA QUERETARO CON EXCELENTE VISTA,"$18,000",3,"2
+                                    
+                                
+                                Baños",134 m²
+1620505997-11518,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento Fray Junipero sin amueblar de 130 mts2! RAHQRO,"$22,000",2,"3
+                                    
+                                
+                                Baños",130 m²
+1620505997-11507,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,RENTA DEPARTAMENTOS - VALLE DE JURIQUILLA - QUERETARO,"$17,500",3,"2
+                                    
+                                
+                                Baños",105 m²
+1620505891-11212,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,"Departamento amoblado en El Refugio de 3 dormitorios, 122 mts2 y seguridad!","$17,300",3,"3
+                                    
+                                
+                                Baños",122 m²
+1620505817-11017,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,DEPARTAMENTO AMUEBLADO EN MILENIO III,"$15,000",3,"2
+                                    
+                                
+                                Baños",167 m²
+1620506008-11554,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,DEPARTAMENTO EN RENTA EN JURIQUILLA AMUEBLADO,"$26,000",2,"2
+                                    
+                                
+                                Baños",114 m²
+1620505836-11068,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,"Departamento en Renta, en Milenio 3a. Sección, Querétaro","$17,500",3,"3
+                                    
+                                
+                                Baños",178 m²
+1620505780-10954,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,PH amueblado en renta GGV#21-3359,"$20,000",1,"2
+                                    
+                                
+                                Baños",75 m²
+1620505780-10946,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,"RENTA DE DEPARTAMENTO EN LATITUD LA VICTORIA, 1 RECÁMARA, 1 ESTACIONAMIENTO","$19,000",1,"1
+                                    
+                                
+                                Baño",84 m²
+1620505761-10874,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,Departamento amueblado en renta Adamant,"$18,000",2,"2
+                                    
+                                
+                                Baños",74 m²
+1620505346-10474,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Penthouse con Roofgarden y vista al Lago. Magnolia Luxury Condos.,"$60,000",3,"3
+                                    
+                                
+                                Baños",183 m²
+1620505780-10949,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Departamento en Lujoso condominio de 55 mts2 y 1 dormitorio! RAHQRO,"$12,500",1,"1
+                                    
+                                
+                                Baño",55 m²
+1620505979-11446,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,Departamento - Juriquilla,"$23,000",2,"2
+                                    
+                                
+                                Baños",118 m²
+1620505613-10554,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,DEPARTAMENTO AMUEBLADO EN RENTA EN CENTRAL PARK,"$22,501",2,"2
+                                    
+                                
+                                Baños",160 m²
+1620505988-11475,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento a estrenar sin amueblar en Fray Junipero Serra! GOC 20-2345,"$22,000",2,"3
+                                    
+                                
+                                Baños",130 m²
+1620506023-11592,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,"¡¡ Departamento en RENTA, en zona residencial de Juriquilla !!!","$14,000",2,"2
+                                    
+                                
+                                Baños",99 m²
+1620505660-10677,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,EXCELENTE DEPARTAMENTO PARA EJECUTIVOS EN RENTA UBICADO EN CENTRAL PARK,"$23,000",2,"2
+                                    
+                                
+                                Baños",168 m²
+1620505725-10796,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Departamento en Renta. El Campanario. FVR,"$20,500",1,"1
+                                    
+                                
+                                Baño",40 m²
+1620505704-10751,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,Departamento cómodo en El Pueblito con mantenimiento incluido! JGJ,"$7,000",2,"2
+                                    
+                                
+                                Baños",80 m²
+1620505636-10611,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,"Departamento en renta totalmente amueblado, Centro Sur, Qro. OFP 19-217","$23,000",2,"2
+                                    
+                                
+                                Baños",157 m²
+1620506030-11628,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"Departamento en Renta, en Juriquilla, Querétaro","$20,000",2,"3
+                                    
+                                
+                                Baños",160 m²
+1620505704-10740,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,Departamento en el pueblito de 2 dormitorios y 114 mts2! Goc,"$13,000",2,"3
+                                    
+                                
+                                Baños",114 m²
+1620505928-11297,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento en Renta Club la Loma el salitre Queretaro 1 habitacion y estudio,"$17,900",1,"2
+                                    
+                                
+                                Baños",88 m²
+1620505681-10688,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,"DEPARTAMENTO EN RENTA EN JURICA, EDIFICIO AIRA, ARCO DE PIEDRA","$15,000",2,"2
+                                    
+                                
+                                Baños",109 m²
+1620505613-10541,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Departamento en renta Centro Sur 2 habitaciones AVH,"$14,000",2,"2
+                                    
+                                
+                                Baños",87 m²
+1620505796-10980,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en renta por El Mirador OFP 21 4035,"$15,500",2,"2
+                                    
+                                
+                                Baños",122 m²
+1620505681-10690,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,"Departamento en renta amueblado en Querétaro. Coldesa Palmas $16,000 ID: 1069","$16,000",2,"2
+                                    
+                                
+                                Baños",150 m²
+1620505741-10824,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,Departamento exclusivo en El Campanario de 40 mts2! RAHQRO,"$17,500",1,"1
+                                    
+                                
+                                Baño",40 m²
+1620505780-10956,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Exclusivo departamento en Renta,"$13,000",1,"1
+                                    
+                                
+                                Baño",55 m²
+1620505997-11527,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento en renta en Juriquilla Towers,"$28,892",2,"3
+                                    
+                                
+                                Baños",130 m²
+1620505796-10973,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,"Loft en Renta, en El Mirador, El Marqués","$7,900",1,"1
+                                    
+                                
+                                Baño",40 m²
+1620505969-11422,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,Departamento  EN RENTA Semiamueblado en Santa Fe Juriquilla Queretaro,"$15,000",2,"2
+                                    
+                                
+                                Baños",140 m²
+1620506014-11568,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,*EX-1183* Departamento en Juriquilla con 2 dormitorios y amueblado! JGJ,"$22,000",2,"2
+                                    
+                                
+                                Baños",91 m²
+1620505613-10562,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,RENTA DEPARTAMENTO ALIA CENTRO SUR ALBERCA SEGURIDAD UBICACIÓN,"$17,000",2,"2
+                                    
+                                
+                                Baños",107 m²
+1620505681-10708,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,Departamento en Renta Club la Loma el salitre Queretaro 1 habitacion y estudio,"$17,900",1,"2
+                                    
+                                
+                                Baños",88 m²
+1620505681-10689,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,Renta departamento de lujo muy amplio y Amueblado en Jurica Edificio Regency Qro,"$37,000",3,"3
+                                    
+                                
+                                Baños",283 m²
+1620505817-11031,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,RENTO LOFT QUERETARO COL.CALESA CENTRICO B.QUINTANA/AV. UNIV/ LOS ARCOS,"$4,500",1,"1
+                                    
+                                
+                                Baño",25 m²
+1620505997-11510,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento en Renta RID10434,"$17,500",2,"2
+                                    
+                                
+                                Baños",170 m²
+1620505704-10746,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,Renta de departamento en segundo nivel,"$10,000",3,"2
+                                    
+                                
+                                Baños",125 m²
+1620505997-11500,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Apartment - Juriquilla,"$26,000",3,"2
+                                    
+                                
+                                Baños",127 m²
+1620506030-11623,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"Renta Departamento, 3 recamaras amenidades, Biosfera Towers Juriquilla Queretaro","$15,500",3,"2
+                                    
+                                
+                                Baños",120 m²
+1620505796-10969,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en renta zona de El Mirador OFP 20 2410,"$14,000",2,"2
+                                    
+                                
+                                Baños",122 m²
+1620506014-11589,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,HERMOSO DEPARTAMENTO AMUEBLADO EN RENTA UBICADO EN LIFE JURIQUILLA !!,"$27,000",2,"2
+                                    
+                                
+                                Baños",165 m²
+1620505681-10687,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,Departamento en Renta JURICA Queretaro 3 habitaciones Privada Arco de Piedra,"$18,000",3,"2
+                                    
+                                
+                                Baños",92 m²
+1620505872-11167,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,HERMOSO DEPARTAMENTO AMUEBLADO EN RENTA EN RESIDENCIAL EL REFUGIO !!,"$19,000",2,"2
+                                    
+                                
+                                Baños",100 m²
+1620505780-10947,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Departamento en Villas del Sol Queretaro,"$16,500",2,"2
+                                    
+                                
+                                Baños",90 m²
+1620505907-11246,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,Amplio departamento en renta con terraza en El Refugio OFP 20 1648,"$14,000",1,"2
+                                    
+                                
+                                Baños",207 m²
+1620505960-11392,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,"Se Renta Depa Amueblado en Santa Fe de Juriquilla 2 Recamaras, Posee Alberca YCC","$15,000",1,"2
+                                    
+                                
+                                Baños",98 m²
+1620505780-10955,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Departamento exclusivo en Villa del Sol de 55 mts2 y amenidades! GOC,"$12,500",1,"1
+                                    
+                                
+                                Baño",55 m²
+1620505891-11199,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,Departamento en Renta de 3 recamaras a solo 15min del Centro de Queretaro.,"$7,000",3,"2
+                                    
+                                
+                                Baños",111 m²
+1620505636-10601,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,DEPARTAMENTO AMUEBLADO CON ACABADOS DE LUJO CON INCREIBLE VISTA A LA CIUDAD,"$19,999",2,"2
+                                    
+                                
+                                Baños",97 m²
+1620505660-10660,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,Ideal Para Familias Jóvenes O Ejecutivos Sin Amoblar!,"$14,000",2,"2
+                                    
+                                
+                                Baños",87 m²
+1620505960-11380,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Departamento amueblado en renta en juriquilla con servicios incluidos.,"$15,000",1,"1
+                                    
+                                
+                                Baño",68 m²
+1620505660-10662,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,"DEPA EN RENTA EN CENTRAL PARK, CON VISTA A LA CIUDAD Y AMPLIA TERRAZA.","$23,000",3,"2
+                                    
+                                
+                                Baños",213 m²
+1620505796-10963,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,"Departamento AMUEBLADO en renta, El Mirador OFP 19-2301","$9,000",1,"1
+                                    
+                                
+                                Baño",65 m²
+1620505872-11157,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,Renta de Departamento en El Refugio 21-2313,"$6,000",2,"1
+                                    
+                                
+                                Baño",52 m²
+1620505761-10880,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,RENTA DEPARTAMENTO CERCA DEL CAMPANARIO DE LUJO ALBERCA 2 RECAMARAS,"$14,900",2,"2
+                                    
+                                
+                                Baños",76 m²
+1620506014-11590,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,Departamento - Juriquilla,"$16,000",4,"2
+                                    
+                                
+                                Baños",123 m²
+1620505817-11027,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,Renta departamento Milenio Querétaro,"$30,000",2,"2
+                                    
+                                
+                                Baños",134 m²
+1620505979-11448,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,RENTA DEPARTAMENTO EN WISELIVING JURIQUILLA,"$25,000",2,"2
+                                    
+                                
+                                Baños",167 m²
+1620505346-10461,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Departamento en renta amueblado con amenidades y vista panorámica a lago y campo de g...,"$20,000",2,"2
+                                    
+                                
+                                Baños",122 m²
+1620505681-10686,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,Departamento en Renta JURICA Queretaro 2 habitaciones Privada Arco de Piedra,"$14,000",2,"2
+                                    
+                                
+                                Baños",92 m²
+1620505891-11186,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,RENTA DEPARTAMENTO DE 1 RECAMARÁ EN QUERÉTARO.,"$10,000",1,"1
+                                    
+                                
+                                Baño",58 m²
+1620505960-11393,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Se Renta Depa Tipo Duplex en Altos de Juriquilla 2 Recamaras Cada Una con Baño,"$14,000",2,"3
+                                    
+                                
+                                Baños",152 m²
+1620505872-11178,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,Querétaro  El Refugio increíble departamento en renta,"$15,900",3,"3
+                                    
+                                
+                                Baños",157 m²
+1620505725-10814,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Departamento exclusivo en El Campanario de 40 mts2! RAHQRO,"$17,500",1,"1
+                                    
+                                
+                                Baño",40 m²
+1620506023-11605,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,Bonito Departamento en Renta en Juriquilla Aqc,"$16,500",3,"2
+                                    
+                                
+                                Baños",126 m²
+1620506008-11538,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,"Departamento Amueblado en Renta en Privalia Ambienta, Querétaro.","$12,000",3,"2
+                                    
+                                
+                                Baños",82 m²
+1620505988-11469,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento en Renta - Atelier Juriquilla,"$14,000",3,"2
+                                    
+                                
+                                Baños",98 m²
+1620505725-10795,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,Departamento en El Campanario de 40 mts2 y 1 dormitorio! en renta RAHQRO 20-245,"$20,500",1,"1
+                                    
+                                
+                                Baño",40 m²
+1620505928-11317,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento en Renta en Queretaro Real de Juriquilla,"$10,500",2,"2
+                                    
+                                
+                                Baños",70 m²
+1620505988-11472,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=6,Departamento en Renta en Juriquilla,"$18,500",3,"2
+                                    
+                                
+                                Baños",130 m²
+1620506008-11560,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,Departamento en PB sin amueblar con 2 dormitorios y 72 mts2! RAHQRO,"$7,400",2,"2
+                                    
+                                
+                                Baños",72 m²
+1620505928-11303,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento en renta,"$18,500",2,"2
+                                    
+                                
+                                Baños",100 m²
+1620505817-11040,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,Renta Departamento Amueblado en City View QUERETARO,"$30,000",3,"2
+                                    
+                                
+                                Baños",133 m²
+1620505796-10959,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,DEPARTAMENTO AMUEBLADO EN RENTA EL MIRADOR QUERETARO,"$12,600",1,"1
+                                    
+                                
+                                Baño",76 m²
+1620505681-10685,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,Renta de Hermoso departamento amueblado  en Jurica,"$11,500",1,"1
+                                    
+                                
+                                Baño",65 m²
+1620505872-11171,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=3,Departamento en Renta en Balcones Coloniales,"$15,000",2,"3
+                                    
+                                
+                                Baños",92 m²
+1620505780-10935,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,Departamento Centro Sur Querétaro,"$13,500",2,"2
+                                    
+                                
+                                Baños",84 m²
+1620505960-11387,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,renta Departamento amueblado en Nautico Juriquilla con vista al lago,"$22,000",2,"2
+                                    
+                                
+                                Baños",100 m²
+1620505660-10667,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,Departamento en renta Central Park,"$15,500",2,"2
+                                    
+                                
+                                Baños",256 m²
+1620505613-10542,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Departamento - Centro Sur,"$21,000",2,"2
+                                    
+                                
+                                Baños",120 m²
+1620505704-10749,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,El Pueblito amplio departamento de 3 recamaras! JGJ 20-3744,"$15,000",3,"4
+                                    
+                                
+                                Baños",170 m²
+1620505725-10808,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,RENTA DEPARTAMENTO SIERRAZUL QUERÉTARO,"$23,000",3,"3
+                                    
+                                
+                                Baños",140 m²
+1620506023-11621,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,"Departamento en Renta con areas de amenidades $11,000","$11,000",2,"2
+                                    
+                                
+                                Baños",106 m²
+1620505346-10476,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Renta de Loft / Departamento en Juriquilla,"$13,000",1,"1
+                                    
+                                
+                                Baño",50 m²
+1620505979-11459,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,Renta de lujos departamento  amueblado en Sta. Fe Juriquilla JF,"$18,500",1,"2
+                                    
+                                
+                                Baños",98 m²
+1620505681-10683,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,DEPARTAMENTO EN RENTA  AMUEBLADO 3 RECAMARAS ZONA JURIQUILLA QUERETARO,"$23,000",3,"2
+                                    
+                                
+                                Baños",140 m²
+1620505704-10738,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,Departamento amoblado en el pueblito de 2 dormitorios y 114 mts2! Rahqro,"$13,000",2,"3
+                                    
+                                
+                                Baños",114 m²
+1620505741-10843,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,SIERRA AZUL RENTA ... VISTAS FABULOSAS DE LA CIUDAD...,"$23,000",2,"2
+                                    
+                                
+                                Baños",120 m²
+1620505761-10884,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,Departamento en renta en El Campanario de 2 dormitorios y 2 baños completos! RAH,"$25,000",2,"2
+                                    
+                                
+                                Baños",76 m²
+1620505997-11515,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento en Renta en Juriquilla las Cruces,"$22,000",2,"3
+                                    
+                                
+                                Baños",107 m²
+1620506023-11614,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,Departamento Amueblado en Juriquilla,"$15,000",1,"2
+                                    
+                                
+                                Baños",98 m²
+1620505660-10651,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,Departamento Centro Sur Querétaro,"$13,500",2,"2
+                                    
+                                
+                                Baños",84 m²
+1620506008-11558,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,RENTO DEPA EN JURIQUILLA QUERÉTARO,"$20,000",2,"2
+                                    
+                                
+                                Baños",99 m²
+1620506008-11557,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=4,"DEPARTAMENTO EN RENTA EN REAL DE JURIQUILLA, AMUEBLADO","$14,000",2,"2
+                                    
+                                
+                                Baños",135 m²
+1620505741-10821,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,"Departamento en El Campanario, Querétaro","$16,000",1,"1
+                                    
+                                
+                                Baño",73 m²
+1620505660-10669,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,¡¡ HERMOSO DEPARTAMENTO DE 160M2 EN RENTA UBICADO EN CENTRO SUR !!,"$19,500",2,"2
+                                    
+                                
+                                Baños",160 m²
+1620505796-10971,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en renta en Zona de El Mirador OFP 20 2410,"$14,000",2,"2
+                                    
+                                
+                                Baños",122 m²
+1620506023-11597,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,Fray Junipero Departamento a estrenar de 2 recamaras! RAHQRO,"$17,000",2,"3
+                                    
+                                
+                                Baños",130 m²
+1620505960-11399,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Departamento en Renta  Queretaro Juriquilla Joy,"$25,000",3,"4
+                                    
+                                
+                                Baños",163 m²
+1620505796-10979,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento amoblado en Renta por zona de El mirador OFP 21 4035,"$15,500",2,"2
+                                    
+                                
+                                Baños",122 m²
+1620505942-11343,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,Departamento - Juriquilla,"$16,000",2,"2
+                                    
+                                
+                                Baños",87 m²
+1620505346-10486,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,Departamento amueblado renta 3 recamaras cumbres del lago juriquilla Queretaro,"$21,000",3,"2
+                                    
+                                
+                                Baños",130 m²
+1620506030-11633,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"Departamento en Renta, en Juriquilla, Querétaro","$32,000",2,"3
+                                    
+                                
+                                Baños",130 m²
+1620505942-11342,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=10,DEPARTAMENTO AMUEBLADO EN BIOSFERA QUERETARO,"$19,500",3,"2
+                                    
+                                
+                                Baños",176 m²
+1620505907-11257,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,Departamento amoblado en El Refugio de 122 mts2 y 3 dormitorios! RAHQRO,"$17,300",3,"3
+                                    
+                                
+                                Baños",122 m²
+1620505741-10825,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,"Departamento en El Campanario, Querétaro","$23,000",3,"3
+                                    
+                                
+                                Baños",140 m²
+1620505928-11308,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Penthouse con Roofgarden y vista al Lago. Magnolia Luxury Condos.,"$60,000",3,"3
+                                    
+                                
+                                Baños",183 m²
+1620505928-11318,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,"Se Renta Precioso Departamento en Santa Fe Juriquilla, 2 Recamaras, 2 Baños Lujo","$21,000",2,"2
+                                    
+                                
+                                Baños",132 m²
+1620505836-11088,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,Estrena departamento en milenio,"$13,800",2,"2
+                                    
+                                
+                                Baños",120 m²
+1620505613-10566,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,"Departamento de lujo totalmente amueblado, Centro Sur OFP EX966","$25,000",3,"3
+                                    
+                                
+                                Baños",110 m²
+1620505725-10803,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,RENTA DEPARTAMENTOS - CAMPANARIO ELITE - QUERETARO,"$23,600",2,"2
+                                    
+                                
+                                Baños",128 m²
+1620505681-10682,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,DEPARTAMENTO HABITACIONAL,"$17,000",2,"2
+                                    
+                                
+                                Baños",132 m²
+1620506014-11575,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,"DEPARTAMENTO EN RENTA EN WISE LIVING JURIQUILLA, EXCELENTE UBICACIÓN","$21,000",2,"2
+                                    
+                                
+                                Baños",160 m²
+1620505997-11513,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,RENTA departamento en Fray Junipero sin amueblar de 2 recamaras!,"$17,000",2,"3
+                                    
+                                
+                                Baños",130 m²
+1620505960-11400,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=9,Departamento - Juriquilla,"$18,000",2,"2
+                                    
+                                
+                                Baños",83 m²
+1620505346-10482,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,"Rent Depa Amueblado y Servicios, vista y seguridad Cum. Del Lago Juriquilla JF","$27,500",3,"3
+                                    
+                                
+                                Baños",232 m²
+1620505817-11037,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,"DEPARTAMENTO EN RENTA, CITY VIEW, CAMPANARIO, AMUEBLADO","$24,000",2,"2
+                                    
+                                
+                                Baños",110 m²
+1620505613-10549,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Renta departamento amueblado en koloria centro sur queretaro 2 recamaras,"$18,000",2,"2
+                                    
+                                
+                                Baños",80 m²
+1620505796-10967,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,"Loft en Renta, en El Mirador, El Marqués","$7,000",1,"1
+                                    
+                                
+                                Baño",35 m²
+1620505891-11191,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,DEPARTAMENTO EN RENTA PRIVALIA AMBIENTA AMUEBLADO CON SERVICIOS INCLUIDOS,"$12,000",3,"2
+                                    
+                                
+                                Baños",97 m²
+1620505660-10658,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=1,Departamento en Centro Sur de 2 dormitorios y 87 mts2! RAHQRO,"$14,000",2,"2
+                                    
+                                
+                                Baños",87 m²
+1620505891-11187,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,DEPA AMUEBLADO EN NATUUR REFUGIO,"$21,000",3,"2
+                                    
+                                
+                                Baños",129 m²
+1620505725-10816,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,"RENTA DE EXCLUSIVO DEPARTAMENTO AMUEBLADO EN EDIFICIO ADAMANT, QUERÉTARO","$18,000",2,"2
+                                    
+                                
+                                Baños",74 m²
+1620505346-10477,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/cumbres-del-lago/departamento/for-rent/?page=2,"Se renta departamento en Cumbres del Lago, Juriquilla","$18,000",2,"3
+                                    
+                                
+                                Baños",135 m²
+1620505780-10945,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=2,RENTA DEPARTAMENTO EN LATITUD EL CORAZÓN DE LA CIUDAD  A 3 MIN DEL CENTRO,"$12,000",1,"1
+                                    
+                                
+                                Baño",66 m²
+1620506014-11587,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,DEPARTAMENTO EN RENTA EN JURIQUILLA DESARROLLO HANDIKO,"$21,500",2,"2
+                                    
+                                
+                                Baños",160 m²
+1620506014-11570,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=3,BONITO DEPARTAMENTO EN DESARROLLO EXCLUSIVO AUTOSUSTENTABLE JOY JURIQUILLA,"$28,000",2,"2
+                                    
+                                
+                                Baños",142 m²
+1620505741-10819,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=2,Departamento en Renta en El Campanario de 2 dormitorios y 2 baños! RAHQRO,"$25,000",2,"2
+                                    
+                                
+                                Baños",76 m²
+1620505796-10976,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Hermoso departamento completamente amueblado y equipado en El Mirador JF,"$15,500",2,"2
+                                    
+                                
+                                Baños",122 m²
+1620505969-11412,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=8,Departamento - Juriquilla,"$15,400",2,"2
+                                    
+                                
+                                Baños",97 m²
+1620505704-10758,https://www.lamudi.com.mx/queretaro-arteaga/corregidora/el-pueblito-13/departamento/for-rent/,"DEPARTAMENTO EN RENTA EN COLINAS DEL CIMATARIO. (Tipo Dúplex, Con Entrada Independien...","$9,000",2,"1
+                                    
+                                
+                                Baño",208 m²
+1620505761-10897,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,Departamento exclusivo semiamueblado en El Campanario de 120 mts2! RAHQRO,"$29,000",2,"3
+                                    
+                                
+                                Baños",120 m²
+1620505928-11302,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=11,Departamento en renta,"$16,500",2,"2
+                                    
+                                
+                                Baños",105 m²
+1620505613-10548,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,Departamento en renta Centro Sur 3 habitaciones AVH,"$25,000",3,"3
+                                    
+                                
+                                Baños",110 m²
+1620505796-10970,https://www.lamudi.com.mx/queretaro-arteaga/el-marques/el-mirador-128/departamento/for-rent/?page=1,Departamento en renta por la zona de El Mirador OFP 20 1961,"$15,000",2,"2
+                                    
+                                
+                                Baños",85 m²
+1620505636-10608,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=2,Departamento en Renta Querétaro 1 Rec y Estudio Centro Sur Central park T 200,"$14,000",2,"2
+                                    
+                                
+                                Baños",111 m²
+1620506030-11649,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=1,"Departamento NUEVO en Renta, 2 Recamaras con Baño cada una, Juriquilla $18,500 QUERET...","$18,500",2,"2
+                                    
+                                
+                                Baños",160 m²
+1620505761-10886,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=1,Departamento en renta en el Campanario ELITE,"$23,600",2,"2
+                                    
+                                
+                                Baños",123 m²
+1620505613-10545,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,RENTA DE DEPARTAMENTO EN CENTRO SUR,"$20,000",2,"1
+                                    
+                                
+                                Baño",93 m²
+1620505891-11203,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=2,Espacioso departamento sin amoblar en el refugio de 3 dormitorios! Rahqro,"$18,600",3,"4
+                                    
+                                
+                                Baños",242 m²
+1620505681-10693,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,"Hermoso departamento en Jurica, Querétaro","$19,900",3,"3
+                                    
+                                
+                                Baños",180 m²
+1620505725-10813,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-campanario-28/departamento/for-rent/?page=3,"CAMPANARIO SIERRA AZUL, LOFT AMUEBLADO EN RENTA","$18,500",1,"1
+                                    
+                                
+                                Baño",67 m²
+1620505979-11456,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,Renta de Departamento Amueblado Juriquilla  Towers Santa Fe Querétaro,"$25,000",2,"2
+                                    
+                                
+                                Baños",110 m²
+1620505681-10707,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/jurica-1/departamento/for-rent/,RENTA DEPARTAMENTOS PALMARES JURICA,"$11,400",2,"2
+                                    
+                                
+                                Baños",125 m²
+1620506023-11615,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=2,Departamento en Renta JURIQUILLA CANTALAGUA QUERETARO 2 Habitaciones en Privada,"$15,000",2,"2
+                                    
+                                
+                                Baños",136 m²
+1620505997-11519,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=5,Departamento - Juriquilla,"$20,000",3,"2
+                                    
+                                
+                                Baños",119 m²
+1620505613-10550,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/centro-sur/departamento/for-rent/?page=3,"DEPARTAMENTO EN RENTA AMUEBLADO  EN KOLORIA ,2 REC., 2 BAÑOS.","$18,000",2,"2
+                                    
+                                
+                                Baños",94 m²
+1620505836-11067,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=2,Departamento para RENTA a estrenar en Milenio III,"$14,000",3,"2
+                                    
+                                
+                                Baños",125 m²
+1620505907-11259,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/el-refugio-82/departamento/for-rent/?page=1,DEPA EN NATUUR REFUGIO,"$16,000",3,"2
+                                    
+                                
+                                Baños",129 m²
+1620505817-11020,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,RENTA DE DEPARTAMENTO AMUEBLADO Y EQUIPADO EN MELINIO III,"$16,300",3,"2
+                                    
+                                
+                                Baños",112 m²
+1620505979-11440,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/juriquilla/departamento/for-rent/?page=7,BIOSFERA TOWERS Amueblado torre A dos recamaras,"$20,000",2,"2
+                                    
+                                
+                                Baños",100 m²
+1620505817-11019,https://www.lamudi.com.mx/queretaro-arteaga/queretaro/milenio-iii-10/departamento/for-rent/?page=3,DEPARTAMENTO EN RENTA EN LA CIMA MILENIO III,"$12,500",2,"2
+                                    
+                                
+                                Baños",153 m²
 1620513889-13316,https://www.inmuebles24.com/departamentos-en-renta-en-juriquilla-pagina-13.html,Departamento Juriquilla Rincón del Lago,"MN 6,500",2 rec.,"1
 					
 						baño",70 m²
@@ -2349,9 +3531,6 @@
 1620513486-12602,https://www.inmuebles24.com/departamentos-en-renta-en-fraccionamiento-cumbres-del-lago-pagina-1.html,Departamento en Renta Amueblado Cumbres de Juriquilla Queret,"MN 19,500",2 rec.,"2
 					
 						baños",114 m²
-1620513823-13210,https://www.inmuebles24.com/departamentos-en-renta-en-juriquilla-pagina-18.html,Departamento en Renta en Juriquilla,"MN 18,000",3 rec.,"3
-					
-						baños",17500 m²
 1620513813-13199,https://www.inmuebles24.com/departamentos-en-renta-en-fraccionamiento-residencial-el-refugio.html,Renta de Departamento en Planta Baja en Alterra Towers El Refugio,"MN 12,000",2 rec.,"2
 					
 						baños",90 m²
